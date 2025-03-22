@@ -1,0 +1,276 @@
+{
+  "name": "koc",
+  "width": 1080,
+  "height": 1920,
+  "duration": 50,
+  "fps": 30,
+  "createdAt": "2025-03-22T18:52:00.900Z",
+  "jobId": "koc",
+  "input": [
+    {
+      "type": "image",
+      "x": 540,
+      "y": 860,
+      "width": 1080,
+      "height": 2000,
+      "path": "bg.png",
+      "start": 0,
+      "duration": 50,
+      "anchor": "center-center"
+    },
+    {
+      "type": "image",
+      "x": 540,
+      "y": 760,
+      "width": 500,
+      "height": 500,
+      "path": "pero.png",
+      "start": 0,
+      "duration": 50,
+      "zoom": [
+        {
+          "start": 0,
+          "zoom": 1
+        },
+        {
+          "start": 3,
+          "zoom": 2
+        },
+        {
+          "start": 6,
+          "zoom": 1.5
+        }
+      ],
+      "opacitys": [
+        {
+          "start": 0,
+          "opacity": 1
+        },
+        {
+          "start": 2,
+          "opacity": 0.3
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "x": 40,
+      "y": 55,
+      "width": 200,
+      "height": 200,
+      "path": "koc.png",
+      "start": 0,
+      "duration": 50,
+      "zoom": [
+        {
+          "start": 0,
+          "zoom": 0
+        },
+        {
+          "start": 2,
+          "zoom": 1
+        }
+      ],
+      "opacitys": [
+        {
+          "start": 0,
+          "opacity": 0.5
+        },
+        {
+          "start": 2,
+          "opacity": 1
+        }
+      ],
+      "anchor": "top-left"
+    },
+    {
+      "type": "text",
+      "content": "Koç Burcu",
+      "x": 300,
+      "y": 50,
+      "start": 0,
+      "duration": 50,
+      "font": {
+        "size": 38,
+        "color": "#face65",
+        "family": "Humnst.ttf",
+        "style": "normal",
+        "align": "left"
+      },
+      "zoom": [
+        {
+          "start": 0,
+          "zoom": 1
+        },
+        {
+          "start": 2,
+          "zoom": 2
+        }
+      ],
+      "opacitys": [
+        {
+          "start": 0,
+          "opacity": 0
+        },
+        {
+          "start": 2,
+          "opacity": 1
+        }
+      ],
+      "anchor": "top-left"
+    },
+    {
+      "type": "text",
+      "content": "Bu ay Koç burcu için heyecan dolu bir dönem başlıyor. Kariyerin alanında beklenmedik fırsatlar karşına çıkabilir. Cesur ve atılgan doğanla bu fırsatları değerlendirmekten çekinme. İlişkilerde ise, iletişim çok önemli olacak. Partnerinle açık ve dürüst bir konuşma yapma zamanı. Ayrıca, sağlığına dikkat etmelisin; spor yaparak ve dengeli beslenerek enerjini yüksek tutabilirsin. Ay boyunca yeniliklere açık ol, unutma ki değişim senin yararına olacak. Hayat sürprizlerle dolu, onları kucakla!",
+      "x": 540,
+      "y": 960,
+      "width": 950,
+      "start": 0,
+      "duration": 50,
+      "animation": [
+        {
+          "type": "typewriter",
+          "speed": 14
+        }
+      ],
+      "font": {
+        "size": 45,
+        "color": "#ffffff",
+        "family": "Humnst.ttf",
+        "style": "normal",
+        "align": "center",
+        "lineHeight": 1.3
+      },
+      "zoom": [
+        {
+          "start": 0,
+          "zoom": 0
+        },
+        {
+          "start": 3,
+          "zoom": 1
+        }
+      ],
+      "opacitys": [
+        {
+          "start": 0,
+          "opacity": 0
+        },
+        {
+          "start": 1,
+          "opacity": 1
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "content": "Mart 2025 Yorumu",
+      "x": 300,
+      "y": 150,
+      "start": 0,
+      "duration": 50,
+      "font": {
+        "size": 30,
+        "color": "#face65",
+        "family": "Humnst.ttf",
+        "style": "normal",
+        "align": "left"
+      },
+      "zoom": [
+        {
+          "start": 0,
+          "zoom": 1
+        },
+        {
+          "start": 2,
+          "zoom": 2
+        }
+      ],
+      "opacitys": [
+        {
+          "start": 0,
+          "opacity": 0
+        },
+        {
+          "start": 2,
+          "opacity": 1
+        }
+      ],
+      "anchor": "top-left"
+    },
+    {
+      "type": "text",
+      "content": "Profesyonel \nBurcu Yorumu",
+      "x": 20,
+      "y": 1920,
+      "start": 0,
+      "duration": 50,
+      "font": {
+        "size": 40,
+        "color": "#face65",
+        "family": "Humnst.ttf",
+        "style": "normal",
+        "align": "left"
+      },
+      "zoom": [
+        {
+          "start": 0,
+          "zoom": 1
+        },
+        {
+          "start": 2,
+          "zoom": 2
+        }
+      ],
+      "opacitys": [
+        {
+          "start": 0,
+          "opacity": 0
+        },
+        {
+          "start": 2,
+          "opacity": 1
+        }
+      ],
+      "anchor": "bottom-left"
+    },
+    {
+      "type": "image",
+      "x": 1080,
+      "y": 1920,
+      "width": 300,
+      "height": 300,
+      "path": "face.png",
+      "start": 0,
+      "duration": 50,
+      "zoom": [
+        {
+          "start": 0,
+          "zoom": 0
+        },
+        {
+          "start": 2,
+          "zoom": 1
+        }
+      ],
+      "opacitys": [
+        {
+          "start": 0,
+          "opacity": 0.5
+        },
+        {
+          "start": 2,
+          "opacity": 1
+        }
+      ],
+      "anchor": "bottom-right"
+    },
+    {
+      "type": "audio",
+      "path": "C:\\github\\mcp\\video\\renders\\koc\\audio\\combined_audio.mp3",
+      "start": 0,
+      "duration": 50,
+      "volume": 1
+    }
+  ]
+}
