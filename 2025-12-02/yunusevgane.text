@@ -1,0 +1,15 @@
+﻿Negatif Bağlam Örnekleriyle Hataları Azaltma
+
+Negatif bağlam örnekleriyle hata azaltma tekniğini açıklayacağım.
+
+AI sistemleri sadece "doğru" örneklerden öğrenmez. "Yanlış" örnekler de öğretir. Negatif bağlam sistemin ne yapmaması gerektiğini öğrenmesini sağlar.
+
+Context Architecture uzmanları negatif örnek koleksiyonları oluşturur: Yanlış kararlar, yanlış yorumlar, uygunsuz yanıtlar. Bu örnekler sistemin benzer hataları tekrarlamasını önlemek için kullanılır.
+
+Negatif bağlam stratejisi: "Bu durumda X deme, Y de", "Bu bağlamda A önerme, B öner", "Bu koşullarda C yapma, D yap". Sistem hem ne yapacağını hem de ne yapmayacağını öğrenir.
+
+Sonuç: Hata oranları yüzde 70 azalır, yanlış kararlar minimize edilir, sistem güvenilirliği maksimize edilir.
+
+Context Architecture mesleği ile AI sistemleri hem pozitif hem negatif örneklerden öğrenir.
+
+#ContextArchitect #AI #Teknoloji #YunusSevgane #İnovasyon #Dijital #Gelecek

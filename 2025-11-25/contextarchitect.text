@@ -1,0 +1,15 @@
+﻿Data Classification and Context Levels (Public/PII/Confidential)
+
+ I'll explain data classification and context levels.
+
+Not all data is the same. Public information, PII (personal data), confidential information require different security levels. Context Architecture automatically handles this classification.
+
+Context Architecture experts create data sensitivity matrices: Public (everyone accessible), Internal (company-wide), Confidential (authorized personnel), Restricted (top level). Each level has different context rules.
+
+Automatic classification: Data type detection with ML algorithms, sensitivity score calculation, automatic labeling. Data is classified at entry and placed in appropriate context layer.
+
+Result: 100% data security compliance, automatic compliance, risk minimization.
+
+With the Context Architecture profession, data management becomes security-focused.
+
+#ContextArchitect #AI #Technology #YunusSevgane #Innovation #Digital #Future

@@ -1,0 +1,15 @@
+﻿Güvenli Bağlam: PII Maskesi ve Redaksiyon
+
+Güvenli bağlam yönetimini açıklayacağım.
+
+AI sistemleri kişisel veri işlerken GDPR, KVKK gibi düzenlemelere uymalıdır. PII (Kişisel Tanımlayıcı Bilgi) maskesi ve redaksiyonu bağlam seviyesinde yapılmalıdır.
+
+Context Architecture uzmanları hassas veri tespiti ve otomatik maskeleme sistemleri kurar. Kredi kartı numaraları, kimlik numaraları, e-posta adresleri bağlam içinde otomatik tespit edilir ve maskelenir.
+
+Dinamik redaksiyon: Kullanıcı yetkisine göre farklı maskeleme seviyeleri. Admin tam bilgiyi görür, operatör kısmi bilgiyi görür, müşteri sadece kendini görür.
+
+Sonuç: Yüzde 100 GDPR uyumluluğu, kişisel veri güvenliği, yasal risk minimizasyonu.
+
+Context Architecture mesleği ile AI sistemleri güvenli veri işleme uzmanlarına dönüşür.
+
+#ContextArchitect #AI #Teknoloji #YunusSevgane #İnovasyon #Dijital #Gelecek

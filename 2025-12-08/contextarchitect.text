@@ -1,0 +1,15 @@
+﻿Secure Context: PII Masking and Redaction
+
+ I'll explain secure context management.
+
+AI systems must comply with regulations like GDPR, KVKK when processing personal data. PII (Personally Identifiable Information) masking and redaction must be done at context level.
+
+Context Architecture experts establish sensitive data detection and automatic masking systems. Credit card numbers, national ID numbers, email addresses are automatically detected and masked within context.
+
+Dynamic redaction: Different masking levels based on user authorization. Admin sees full information, operator sees partial information, customer sees only themselves.
+
+Result: 100% GDPR compliance, personal data security, legal risk minimization.
+
+With the Context Architecture profession, AI systems transform into secure data processing experts.
+
+#ContextArchitect #AI #Technology #YunusSevgane #Innovation #Digital #Future

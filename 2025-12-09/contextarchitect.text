@@ -1,0 +1,17 @@
+﻿Role-Based Context Access (RBAC for Context)
+
+ I'll explain role-based context access.
+
+Not all users can access the same context information. CEO and intern shouldn't see the same customer data. RBAC for Context organizes context access according to user roles.
+
+Context Architecture experts design context authorization matrices: Admin (full access), Manager (department data), Employee (own projects), Guest (general information).
+
+Dynamic authorization: Context access automatically updates as user role changes. Access is revoked when project ends, authority increases with promotion.
+
+Context filtering: Same query returns different results for different users. Everyone sees information at their authorization level.
+
+Result: Data security is 100% ensured, unauthorized access is prevented, compliance requirements are met.
+
+With the Context Architecture profession, context access achieves role-based security system.
+
+#ContextArchitect #AI #Technology #YunusSevgane #Innovation #Digital #Future

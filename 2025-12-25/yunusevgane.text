@@ -1,0 +1,17 @@
+﻿Olay Sonrası Kök Neden Analizi (RCA) için Bağlam İzi
+
+Olay sonrası kök neden analizi için bağlam izini açıklayacağım.
+
+"Niye oldu?" sorusu sistem hatalarında kritiktir. Bağlam izi her kararın arkasındaki bağlamı kaydeder. RCA (Kök Neden Analizi) için vazgeçilmezdir.
+
+Context Architecture uzmanları kapsamlı izleme sistemleri kurar: Her karar için kullanılan bağlam, zaman damgası, kaynak bilgisi, işleme adımları.
+
+Adli analiz: Hangi bağlamla yanlış karar verildi? O bağlam nereden geldi? Kim sağladı? Ne zaman güncellendi? Tam izlenebilirlik.
+
+Kök neden tespiti: Bağlam kaynak problemleri, veri kalitesi sorunları, yetkilendirme hataları, zaman aşımı durumları.
+
+Sonuç: RCA süresi yüzde 80 kısalır, gerçek problem kaynağı bulunur, benzer hatalar önlenir.
+
+Context Architecture mesleği ile sistem hata analizi CSI araştırma seviyesine ulaşır.
+
+#ContextArchitect #AI #Teknoloji #YunusSevgane #İnovasyon #Dijital #Gelecek

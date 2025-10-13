@@ -1,0 +1,15 @@
+﻿Veri Sınıflandırması ve Bağlam Seviyeleri (Public/PII/Confidential)
+
+Veri sınıflandırması ve bağlam seviyelerini açıklayacağım.
+
+Tüm veriler aynı değildir. Kamu bilgileri, PII (kişisel veriler), gizli bilgiler farklı güvenlik seviyeleri gerektirir. Context Architecture bu sınıflandırmayı otomatik olarak yönetir.
+
+Context Architecture uzmanları veri hassasiyet matrisleri oluşturur: Public (herkese açık), Internal (şirket geneli), Confidential (yetkili personel), Restricted (üst düzey). Her seviyenin farklı bağlam kuralları vardır.
+
+Otomatik sınıflandırma: ML algoritmalarıyla veri tipi tespiti, hassasiyet skoru hesaplama, otomatik etiketleme. Veri girişte sınıflandırılır ve uygun bağlam katmanına yerleştirilir.
+
+Sonuç: Yüzde 100 veri güvenliği uyumluluğu, otomatik uyumluluk, risk minimizasyonu.
+
+Context Architecture mesleği ile veri yönetimi güvenlik odaklı hale gelir.
+
+#ContextArchitect #AI #Teknoloji #YunusSevgane #İnovasyon #Dijital #Gelecek

@@ -1,0 +1,15 @@
+﻿Satış Asistanında Doğru Teklif: Fiyatlandırma Bağlamı
+
+Satış asistanındaki doğru teklif vakasını açıklayacağım.
+
+Satış ekibi tüm müşterilere aynı standart teklifleri sunuyordu. Dönüşüm oranı yüzde 8'di. Fiyatlandırma bağlamıyla yüzde 32'ye çıktı. Nasıl oldu?
+
+Sorun: Müşteri profili, satın alma geçmişi, bütçe aralığı, sektör durumu göz ardı ediliyordu. Herkese aynı fiyat, aynı ürün paketi.
+
+Context Architecture çözümü: Fiyatlandırma bağlam motoru. Müşteri segmenti + satın alma davranışı + rekabet durumu + mevsimsel faktörler = dinamik teklif.
+
+Sonuç: Dönüşüm oranı yüzde 300 arttı, ortalama satış değeri yüzde 45 yükseldi, müşteri memnuniyeti maksimize edildi.
+
+Context Architecture mesleği ile satış sistemleri akıllı teklif uzmanlarına dönüşür.
+
+#ContextArchitect #AI #Teknoloji #YunusSevgane #İnovasyon #Dijital #Gelecek

@@ -1,0 +1,65 @@
+---
+alwaysApply: true
+---
+
+
+klasörlerin içinde video ve textler var senden liste yapmanı istediğimde klasörün adı ile bir json oluşturacaksın.
+
+// json örengi
+
+[klasoradi].json
+{
+    "data": [
+  
+        {   
+            "path": "mediaadi", // video adi .mp4 olmadan
+            "id": "projepath", // projenin path. örenek cevap "yunusevgane"
+            "tiktok": "10000", // projenin tiktok idsi
+            "instagram": "10001", // projenin instagram idsi 
+            "title": "başlık", // başlık yazısı
+            "keywords": "keywords1,keywords2...", // 5 veya 6 tane
+            "description": "detay yazısı" // seo açısında yüksek
+        } .....
+    ]
+}
+
+
+id.json içinde proje listesi ve idler bunun içinde herseferinde oku
+
+
+
+// örenk id.json
+{
+    "yunusevgane": {
+        "instagram": "17129",
+        "tiktok": "17915"
+    },
+    "ajansmobil": {
+        "instagram": "17142",
+        "tiktok": "17923"
+    },
+    "contextarchitect": {
+        "instagram": "17139",
+        "tiktok": "0"
+    },
+    "tadimlokantasi": {
+        "instagram": "17132",
+        "tiktok": "17916"
+    },
+    "ataklifecom": {
+        "instagram": "17137",
+        "tiktok": "0"
+    },
+    "hanbroscargo": {
+        "instagram": "17133",
+        "tiktok": "17917"
+    },
+    "antepagzi": {
+        "instagram": "17138",
+        "tiktok": "17920"
+    },
+    "tiggergiftcomtr": {
+        "instagram": "17135",
+        "tiktok": "17919"
+    }
+}

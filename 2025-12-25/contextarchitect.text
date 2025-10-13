@@ -1,0 +1,17 @@
+﻿Context Trail for Post-Incident Root Cause Analysis (RCA)
+
+ I'll explain context trail for post-incident root cause analysis.
+
+The question "why did it happen?" is critical in system failures. Context trail records the context behind every decision. Indispensable for RCA (Root Cause Analysis).
+
+Context Architecture experts establish comprehensive tracing systems: Context used for each decision, timestamp, source information, processing steps.
+
+Forensic analysis: Which context was the wrong decision made with? Where did that context come from? Who provided it? When was it updated? Complete traceability.
+
+Root cause detection: Context source problems, data quality issues, authorization errors, timeout situations.
+
+Result: RCA time is shortened by 80%, real problem source is found, similar errors are prevented.
+
+With the Context Architecture profession, system error analysis reaches CSI investigation level.
+
+#ContextArchitect #AI #Technology #YunusSevgane #Innovation #Digital #Future

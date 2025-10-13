@@ -7,11 +7,11 @@ echo   Orijinalleri siler, aynı isimle kaydeder
 echo --------------------------------------------
 echo.
 
-REM Döngü: Klasördeki tüm .mp4 dosyalarını işle
-for %%A in (*.mp4) do (
+REM Döngü: Mevcut ve alt klasörlerdeki tüm .mp4 dosyalarını işle
+for /R %%A in (*.mp4) do (
     echo Dönüştürülüyor: %%A
     set "input=%%A"
-    set "temp=%%~nA_temp.mp4"
+    set "temp=%%~dpnA_temp.mp4"
 
     REM FFmpeg dönüştürme komutu
     ffmpeg -i "%%A" -c:v libx265 -crf 24 -preset medium -c:a copy "!temp!" -y
@@ -19,7 +19,7 @@ for %%A in (*.mp4) do (
     REM Dönüştürme başarılı olduysa
     if exist "!temp!" (
         del "%%A"
-        ren "!temp!" "%%~nA.mp4"
+        ren "!temp!" "%%~nxA"
         echo Tamamlandı: %%A
     ) else (
         echo Hata: %%A dönüştürülemedi.

@@ -1,0 +1,15 @@
+﻿Retrieval Politikası Tasarımı (Policy-Based RAG)
+
+Retrieval politikası tasarımını açıklayacağım.
+
+RAG sistemleri genellikle basit benzerlik aramaları yapar. Policy-based RAG iş kurallarını ve bağlamsal faktörleri dikkate alarak akıllı bilgi erişim stratejileri uygular.
+
+Context Architecture uzmanları retrieval politikalarını tanımlar: Kullanıcı rolüne göre farklı bilgi seviyeleri, zaman faktörüne göre mevcut/geçmiş veri dengesi, güvenlik seviyesine göre erişim filtreleri.
+
+Örnek politika: "VIP müşteri + teknik destek + acil durum = En detaylı teknik dokümanlar + uzman iletişim bilgisi + hızlandırılmış süreç". Her durum için özel retrieval stratejisi.
+
+Sonuç: RAG sistemleri yüzde 400 daha doğru bilgi erişir, güvenlik ihlalleri önlenir, kullanıcı deneyimi optimize edilir.
+
+Context Architecture mesleği ile RAG sistemleri akıllı bilgi stratejistlerine dönüşür.
+
+#ContextArchitect #AI #Teknoloji #YunusSevgane #İnovasyon #Dijital #Gelecek

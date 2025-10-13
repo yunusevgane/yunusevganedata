@@ -1,0 +1,17 @@
+﻿Rol Tabanlı Bağlam Erişimi (Context için RBAC)
+
+Rol tabanlı bağlam erişimini açıklayacağım.
+
+Tüm kullanıcılar aynı bağlam bilgilerine erişemez. CEO ve stajyer aynı müşteri verilerini görmemeli. Context için RBAC bağlam erişimini kullanıcı rollerine göre düzenler.
+
+Context Architecture uzmanları bağlam yetkilendirme matrisleri tasarlar: Admin (tam erişim), Manager (departman verileri), Employee (kendi projeleri), Guest (genel bilgiler).
+
+Dinamik yetkilendirme: Kullanıcı rolü değiştiğinde bağlam erişimi otomatik güncellenir. Proje bittiğinde erişim iptal edilir, terfi ile yetki artar.
+
+Bağlam filtreleme: Aynı sorgu farklı kullanıcılar için farklı sonuçlar döndürür. Herkes kendi yetkilendirme seviyesindeki bilgileri görür.
+
+Sonuç: Veri güvenliği yüzde 100 sağlanır, yetkisiz erişim önlenir, uyumluluk gereksinimleri karşılanır.
+
+Context Architecture mesleği ile bağlam erişimi rol tabanlı güvenlik sistemine ulaşır.
+
+#ContextArchitect #AI #Teknoloji #YunusSevgane #İnovasyon #Dijital #Gelecek
