@@ -1,41 +1,13 @@
 {
     "data": [
         {
-            "path": "ajansmobil",
-            "id": "ajansmobil",
-            "tiktok": "17923",
-            "instagram": "17142",
-            "title": "Google Reklam Yönetimi ile Dijital Dünyada Öne Çıkın",
-            "keywords": "Google reklam yönetimi, dijital pazarlama, online görünürlük, ROI artırımı, hedef kitle optimizasyonu, reklam kampanyası",
-            "description": "Google Reklam Yönetimi ile işletmenizin online görünürlüğünü en üst seviyeye taşıyın. Ajans Mobil olarak profesyonel reklam kampanyası yönetimi, hedef kitle analizi ve optimizasyon, bütçe yönetimi ve ROI artırımı hizmetleri sunuyoruz. Tıklamaları müşteriye dönüştürün, verilerinizi kâra çevirin ve dijital dünyada öne çıkın. A/B test ve performans analizi ile sürekli optimizasyon sağlayarak potansiyelinizi büyümeye dönüştürün."
-        },
-        {
-            "path": "contextarchitect",
-            "id": "contextarchitect",
-            "tiktok": "0",
-            "instagram": "17139",
-            "title": "Context Architect in Healthcare: Smart Diagnosis from Patient Data",
-            "keywords": "Context Architecture, AI healthcare, smart diagnosis, patient data analysis, medical innovation, digital health",
-            "description": "Context Architecture revolutionizes healthcare by unifying siloed patient data into comprehensive, patient-centered contexts. Expert Context Architects analyze patient data across time, symptoms, and treatment history, integrating age, gender, genetic factors, and lifestyle information to develop advanced early diagnosis systems. AI models leverage this contextual data to predict disease risks in advance, providing doctors with comprehensive analysis before patient consultations. The result is a forty percent increase in diagnostic accuracy, shortened treatment times, and significantly improved patient outcomes. Context Architecture transforms healthcare from reactive treatment to proactive prevention."
-        },
-        {
-            "path": "tadimlokantasi",
-            "id": "tadimlokantasi",
-            "tiktok": "17916",
-            "instagram": "17132",
-            "title": "Kasap Sucuğundan Yapılmış Yumurtalı Sucuk - Tadım Lokantası",
-            "keywords": "Tadım Lokantası, Gaziantep lezzetleri, kasap sucuğu, yumurtalı sucuk, Gaziantep kahvaltı, Küsget",
-            "description": "Tadım Lokantası'nda gerçek kasap sucuğunun lezzetini taze yumurtayla buluşturuyoruz. Gaziantep Küsget'te sabahların vazgeçilmezi olan yumurtalı sucuğumuz, doyurucu ve nefis bir lezzet deneyimi sunuyor. Gaziantep mutfağının geleneksel lezzetlerini modern dokunuşlarla harmanlayarak, güne enerjik ve lezzetli bir başlangıç yapmanızı sağlıyoruz. Sucuk severler için ideal bir kahvaltı seçeneği olan bu özel lezzeti Tadım Lokantası'nda deneyimleyin."
-        },
-        {
-            "path": "yunusevgane",
-            "id": "yunusevgane",
-            "tiktok": "17915",
-            "instagram": "17129",
-            "title": "Sağlıkta Context Architect: Hasta Verilerinden Akıllı Tanı",
-            "keywords": "Context Architecture, AI teknolojisi, sağlık sektörü, akıllı tanı sistemleri, hasta verileri, tıbbi inovasyon",
-            "description": "Context Architecture, sağlık sektöründe devrim yaratan bir yaklaşımla hasta verilerini tek bir merkezi bağlamda birleştiriyor. Laboratuvar sonuçları, radyoloji raporları ve doktor notları gibi farklı sistemlerdeki dağınık verileri hasta merkezli bir yapıda analiz eden bu teknoloji, erken tanı sistemlerinin geliştirilmesini sağlıyor. Context Architecture uzmanları, hasta verilerini zaman, semptomlar ve tedavi geçmişi bağlamında değerlendirerek AI modellerinin hastalık risklerini önceden öngörmesini mümkün kılıyor. Sonuç olarak tanı doğruluğu yüzde kırk artıyor, tedavi süreleri kısalıyor ve hasta sonuçları önemli ölçüde iyileşiyor. Context Architecture mesleği ile sağlık hizmetleri sadece hastalıkları tedavi etmekle kalmıyor, önceden önlemeyi de mümkün kılıyor."
+            "path": "hanbros",
+            "id": "hanbroscargo",
+            "tiktok": "17917",
+            "instagram": "17133",
+            "title": "Memleket Lezzeti Kapında",
+            "keywords": "HanBrosKargo,TürkiyeİngiltereKargo,MemleketLezzeti,GurbetçiHayatı,TürkLezzetleri,YurtDışıKargo",
+            "description": "Londra'da yaşasan bile… bazen sofrandaki tat bir şeyler eksik kalır. O memleketin salçası, baharatı, peyniri yoksa yemeğin tadı da olmaz. Han Bros Kargo, özlediğin o lezzetleri Türkiye'den özenle kapına getirir. Sıcacık, tam da evindeymiş gibi!"
         }
     ]
 }
-
