@@ -1,9 +1,7 @@
 ---
 alwaysApply: true
 ---
-
-
-klasörlerin içinde video ve textler var senden liste yapmanı istediğimde klasörün adı ile bir json oluşturacaksın.
+klasörlerin içinde video ve textler var senden liste yapmanı istediğimde klasörün adı ile bir json oluşturacaksın. herzaman seo açısında ve hatalı yazılımları düzenle ve yazı formatınız düzenle. # herzaman keyword önüne ekle. tüm düzenlemleri content alanına ekle
 
 // json örengi
 
@@ -17,11 +15,13 @@ klasörlerin içinde video ve textler var senden liste yapmanı istediğimde kla
             "tiktok": "10000", // projenin tiktok idsi
             "instagram": "10001", // projenin instagram idsi 
             "title": "başlık", // başlık yazısı
-            "keywords": "keywords1,keywords2...", // 5 veya 6 tane
+            "keywords": "#keywords1, #keywords2...", // 5 veya 6 tane
             "description": "detay yazısı" // seo açısında yüksek
         } .....
     ]
 }
+
+
 
 
 id.json içinde proje listesi ve idler bunun içinde herseferinde oku
