@@ -1,0 +1,669 @@
+{
+  "timestamp": "2025-10-20T02:02:04.361Z",
+  "summary": {
+    "totalButtons": 11,
+    "totalClickableElements": 23,
+    "totalTexts": 7
+  },
+  "buttons": [
+    {
+      "id": 1,
+      "type": "button",
+      "text": "",
+      "resourceId": "",
+      "className": "android.widget.Button",
+      "bounds": {
+        "left": 11,
+        "top": 1762,
+        "right": 110,
+        "bottom": 1828
+      },
+      "center": {
+        "x": 61,
+        "y": 1795
+      }
+    },
+    {
+      "id": 2,
+      "type": "button",
+      "text": "",
+      "resourceId": "",
+      "className": "android.widget.Button",
+      "bounds": {
+        "left": 158,
+        "top": 1762,
+        "right": 257,
+        "bottom": 1828
+      },
+      "center": {
+        "x": 208,
+        "y": 1795
+      }
+    },
+    {
+      "id": 3,
+      "type": "button",
+      "text": "",
+      "resourceId": "",
+      "className": "android.widget.Button",
+      "bounds": {
+        "left": 291,
+        "top": 1762,
+        "right": 390,
+        "bottom": 1828
+      },
+      "center": {
+        "x": 341,
+        "y": 1795
+      }
+    },
+    {
+      "id": 4,
+      "type": "button",
+      "text": "",
+      "resourceId": "",
+      "className": "android.widget.Button",
+      "bounds": {
+        "left": 937,
+        "top": 1731,
+        "right": 1058,
+        "bottom": 1847
+      },
+      "center": {
+        "x": 998,
+        "y": 1789
+      }
+    },
+    {
+      "id": 5,
+      "type": "button",
+      "text": "",
+      "resourceId": "",
+      "className": "android.widget.Button",
+      "bounds": {
+        "left": 39,
+        "top": 1858,
+        "right": 250,
+        "bottom": 1904
+      },
+      "center": {
+        "x": 145,
+        "y": 1881
+      }
+    },
+    {
+      "id": 6,
+      "type": "button",
+      "text": "",
+      "resourceId": "",
+      "className": "android.widget.Button",
+      "bounds": {
+        "left": 259,
+        "top": 1858,
+        "right": 873,
+        "bottom": 1904
+      },
+      "center": {
+        "x": 566,
+        "y": 1881
+      }
+    },
+    {
+      "id": 7,
+      "type": "button",
+      "text": "",
+      "resourceId": "",
+      "className": "android.widget.Button",
+      "bounds": {
+        "left": 259,
+        "top": 1858,
+        "right": 873,
+        "bottom": 1904
+      },
+      "center": {
+        "x": 566,
+        "y": 1881
+      }
+    },
+    {
+      "id": 8,
+      "type": "button",
+      "text": "",
+      "resourceId": "",
+      "className": "android.widget.Button",
+      "bounds": {
+        "left": 907,
+        "top": 1858,
+        "right": 1033,
+        "bottom": 1904
+      },
+      "center": {
+        "x": 970,
+        "y": 1881
+      }
+    },
+    {
+      "id": 9,
+      "type": "button",
+      "text": "",
+      "resourceId": "",
+      "className": "android.widget.Button",
+      "bounds": {
+        "left": 0,
+        "top": 2029,
+        "right": 134,
+        "bottom": 2078
+      },
+      "center": {
+        "x": 67,
+        "y": 2054
+      }
+    },
+    {
+      "id": 10,
+      "type": "button",
+      "text": "medyabar",
+      "resourceId": "com.instagram.android:id/row_feed_photo_profile_name",
+      "className": "android.widget.Button",
+      "bounds": {
+        "left": 134,
+        "top": 2029,
+        "right": 724,
+        "bottom": 2078
+      },
+      "center": {
+        "x": 429,
+        "y": 2054
+      }
+    },
+    {
+      "id": 11,
+      "type": "button",
+      "text": "Takip Et",
+      "resourceId": "com.instagram.android:id/inline_follow_button",
+      "className": "android.widget.Button",
+      "bounds": {
+        "left": 724,
+        "top": 2057,
+        "right": 958,
+        "bottom": 2078
+      },
+      "center": {
+        "x": 841,
+        "y": 2068
+      }
+    }
+  ],
+  "clickableElements": [
+    {
+      "id": 1,
+      "type": "clickable",
+      "text": "",
+      "resourceId": "",
+      "className": "android.view.ViewGroup",
+      "bounds": {
+        "left": 927,
+        "top": 1617,
+        "right": 1080,
+        "bottom": 1731
+      },
+      "center": {
+        "x": 1004,
+        "y": 1674
+      }
+    },
+    {
+      "id": 2,
+      "type": "clickable",
+      "text": "",
+      "resourceId": "com.instagram.android:id/media_group",
+      "className": "android.widget.FrameLayout",
+      "bounds": {
+        "left": 0,
+        "top": 80,
+        "right": 1080,
+        "bottom": 1731
+      },
+      "center": {
+        "x": 540,
+        "y": 906
+      }
+    },
+    {
+      "id": 3,
+      "type": "clickable",
+      "text": "",
+      "resourceId": "",
+      "className": "android.view.View",
+      "bounds": {
+        "left": 0,
+        "top": 1731,
+        "right": 74,
+        "bottom": 1858
+      },
+      "center": {
+        "x": 37,
+        "y": 1795
+      }
+    },
+    {
+      "id": 4,
+      "type": "clickable",
+      "text": "",
+      "resourceId": "",
+      "className": "android.view.View",
+      "bounds": {
+        "left": 74,
+        "top": 1731,
+        "right": 142,
+        "bottom": 1858
+      },
+      "center": {
+        "x": 108,
+        "y": 1795
+      }
+    },
+    {
+      "id": 5,
+      "type": "clickable",
+      "text": "",
+      "resourceId": "",
+      "className": "android.view.View",
+      "bounds": {
+        "left": 142,
+        "top": 1731,
+        "right": 214,
+        "bottom": 1858
+      },
+      "center": {
+        "x": 178,
+        "y": 1795
+      }
+    },
+    {
+      "id": 6,
+      "type": "clickable",
+      "text": "",
+      "resourceId": "",
+      "className": "android.view.View",
+      "bounds": {
+        "left": 214,
+        "top": 1731,
+        "right": 275,
+        "bottom": 1858
+      },
+      "center": {
+        "x": 245,
+        "y": 1795
+      }
+    },
+    {
+      "id": 7,
+      "type": "clickable",
+      "text": "",
+      "resourceId": "",
+      "className": "android.view.View",
+      "bounds": {
+        "left": 275,
+        "top": 1731,
+        "right": 407,
+        "bottom": 1858
+      },
+      "center": {
+        "x": 341,
+        "y": 1795
+      }
+    },
+    {
+      "id": 8,
+      "type": "clickable",
+      "text": "",
+      "resourceId": "",
+      "className": "android.view.View",
+      "bounds": {
+        "left": 475,
+        "top": 1731,
+        "right": 607,
+        "bottom": 1858
+      },
+      "center": {
+        "x": 541,
+        "y": 1795
+      }
+    },
+    {
+      "id": 9,
+      "type": "clickable",
+      "text": "",
+      "resourceId": "",
+      "className": "android.view.View",
+      "bounds": {
+        "left": 932,
+        "top": 1731,
+        "right": 1064,
+        "bottom": 1855
+      },
+      "center": {
+        "x": 998,
+        "y": 1793
+      }
+    },
+    {
+      "id": 10,
+      "type": "clickable",
+      "text": "",
+      "resourceId": "",
+      "className": "android.widget.Button",
+      "bounds": {
+        "left": 39,
+        "top": 1858,
+        "right": 250,
+        "bottom": 1904
+      },
+      "center": {
+        "x": 145,
+        "y": 1881
+      }
+    },
+    {
+      "id": 11,
+      "type": "clickable",
+      "text": "",
+      "resourceId": "",
+      "className": "android.widget.Button",
+      "bounds": {
+        "left": 259,
+        "top": 1858,
+        "right": 873,
+        "bottom": 1904
+      },
+      "center": {
+        "x": 566,
+        "y": 1881
+      }
+    },
+    {
+      "id": 12,
+      "type": "clickable",
+      "text": "",
+      "resourceId": "",
+      "className": "android.widget.Button",
+      "bounds": {
+        "left": 259,
+        "top": 1858,
+        "right": 873,
+        "bottom": 1904
+      },
+      "center": {
+        "x": 566,
+        "y": 1881
+      }
+    },
+    {
+      "id": 13,
+      "type": "clickable",
+      "text": "",
+      "resourceId": "",
+      "className": "android.widget.Button",
+      "bounds": {
+        "left": 907,
+        "top": 1858,
+        "right": 1033,
+        "bottom": 1904
+      },
+      "center": {
+        "x": 970,
+        "y": 1881
+      }
+    },
+    {
+      "id": 14,
+      "type": "clickable",
+      "text": "",
+      "resourceId": "com.instagram.android:id/media_group",
+      "className": "android.widget.FrameLayout",
+      "bounds": {
+        "left": 0,
+        "top": 2029,
+        "right": 1080,
+        "bottom": 2078
+      },
+      "center": {
+        "x": 540,
+        "y": 2054
+      }
+    },
+    {
+      "id": 15,
+      "type": "clickable",
+      "text": "",
+      "resourceId": "",
+      "className": "android.widget.Button",
+      "bounds": {
+        "left": 0,
+        "top": 2029,
+        "right": 134,
+        "bottom": 2078
+      },
+      "center": {
+        "x": 67,
+        "y": 2054
+      }
+    },
+    {
+      "id": 16,
+      "type": "clickable",
+      "text": "medyabar",
+      "resourceId": "com.instagram.android:id/row_feed_photo_profile_name",
+      "className": "android.widget.Button",
+      "bounds": {
+        "left": 134,
+        "top": 2029,
+        "right": 724,
+        "bottom": 2078
+      },
+      "center": {
+        "x": 429,
+        "y": 2054
+      }
+    },
+    {
+      "id": 17,
+      "type": "clickable",
+      "text": "Takip Et",
+      "resourceId": "com.instagram.android:id/inline_follow_button",
+      "className": "android.widget.Button",
+      "bounds": {
+        "left": 724,
+        "top": 2057,
+        "right": 958,
+        "bottom": 2078
+      },
+      "center": {
+        "x": 841,
+        "y": 2068
+      }
+    },
+    {
+      "id": 18,
+      "type": "clickable",
+      "text": "",
+      "resourceId": "com.instagram.android:id/media_option_button",
+      "className": "android.widget.ImageView",
+      "bounds": {
+        "left": 958,
+        "top": 2035,
+        "right": 1080,
+        "bottom": 2078
+      },
+      "center": {
+        "x": 1019,
+        "y": 2057
+      }
+    },
+    {
+      "id": 19,
+      "type": "clickable",
+      "text": "",
+      "resourceId": "com.instagram.android:id/feed_tab",
+      "className": "android.widget.FrameLayout",
+      "bounds": {
+        "left": 0,
+        "top": 2078,
+        "right": 216,
+        "bottom": 2130
+      },
+      "center": {
+        "x": 108,
+        "y": 2104
+      }
+    },
+    {
+      "id": 20,
+      "type": "clickable",
+      "text": "",
+      "resourceId": "com.instagram.android:id/search_tab",
+      "className": "android.widget.FrameLayout",
+      "bounds": {
+        "left": 216,
+        "top": 2078,
+        "right": 432,
+        "bottom": 2130
+      },
+      "center": {
+        "x": 324,
+        "y": 2104
+      }
+    },
+    {
+      "id": 21,
+      "type": "clickable",
+      "text": "",
+      "resourceId": "com.instagram.android:id/creation_tab",
+      "className": "android.widget.FrameLayout",
+      "bounds": {
+        "left": 432,
+        "top": 2078,
+        "right": 648,
+        "bottom": 2130
+      },
+      "center": {
+        "x": 540,
+        "y": 2104
+      }
+    },
+    {
+      "id": 22,
+      "type": "clickable",
+      "text": "",
+      "resourceId": "com.instagram.android:id/clips_tab",
+      "className": "android.widget.FrameLayout",
+      "bounds": {
+        "left": 648,
+        "top": 2078,
+        "right": 864,
+        "bottom": 2130
+      },
+      "center": {
+        "x": 756,
+        "y": 2104
+      }
+    },
+    {
+      "id": 23,
+      "type": "clickable",
+      "text": "",
+      "resourceId": "com.instagram.android:id/profile_tab",
+      "className": "android.widget.FrameLayout",
+      "bounds": {
+        "left": 864,
+        "top": 2078,
+        "right": 1080,
+        "bottom": 2130
+      },
+      "center": {
+        "x": 972,
+        "y": 2104
+      }
+    }
+  ],
+  "texts": [
+    {
+      "id": 41,
+      "type": "text",
+      "text": "21",
+      "bounds": {
+        "left": 121,
+        "top": 1772,
+        "right": 142,
+        "bottom": 1818
+      }
+    },
+    {
+      "id": 46,
+      "type": "text",
+      "text": "5",
+      "bounds": {
+        "left": 268,
+        "top": 1772,
+        "right": 275,
+        "bottom": 1818
+      }
+    },
+    {
+      "id": 52,
+      "type": "text",
+      "text": "41",
+      "bounds": {
+        "left": 522,
+        "top": 1772,
+        "right": 560,
+        "bottom": 1818
+      }
+    },
+    {
+      "id": 57,
+      "type": "text",
+      "text": "reels_haber Kepez ilçesinde yaşayan Hüseyin A… devamı",
+      "bounds": {
+        "left": 39,
+        "top": 1858,
+        "right": 1080,
+        "bottom": 1910
+      }
+    },
+    {
+      "id": 62,
+      "type": "text",
+      "text": "5 saat önce",
+      "bounds": {
+        "left": 0,
+        "top": 1921,
+        "right": 1080,
+        "bottom": 1963
+      }
+    },
+    {
+      "id": 82,
+      "type": "text",
+      "text": "medyabar",
+      "bounds": {
+        "left": 134,
+        "top": 2029,
+        "right": 724,
+        "bottom": 2078
+      }
+    },
+    {
+      "id": 83,
+      "type": "text",
+      "text": "Takip Et",
+      "bounds": {
+        "left": 724,
+        "top": 2057,
+        "right": 958,
+        "bottom": 2078
+      }
+    }
+  ]
+}
