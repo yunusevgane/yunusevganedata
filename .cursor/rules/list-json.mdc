@@ -14,10 +14,10 @@ klasörlerin içinde video ve textler var senden liste yapmanı istediğimde kla
             "id": "projepath", // projenin path. örenek cevap "yunusevgane"
             "tiktok": "10000", // projenin tiktok idsi
             "instagram": "10001", // projenin instagram idsi 
-            "title": "başlık", // başlık yazısı #reklam ve @ başlayanları özmadan ekle "**" hiçbirzaman olmasın
+            "title": "başlık", // başlık yazısı ekle. 
             "keywords": "#keywords1, #keywords2...", // 5 veya 6 tane
             "description": "detay yazısı" // seo açısında yüksek
-        } // Asla yeni bir alan ekleme ,
+        } // Asla yeni bir alan ekleme , "**" hiçbirzaman olmasın,
         
          .....
     ]
