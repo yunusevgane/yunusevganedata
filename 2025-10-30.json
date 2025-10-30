@@ -2,39 +2,57 @@
     "data": [
         {
             "path": "ajansmobil",
-            "title": "SOSYAL MEDYA YÖNETİMİ İLE DİJİTAL DÜNYADA FARK YARATIN!",
-            "description": "Sosyal medyada sadece var olmak yetmez, öne çıkmak gerekir! Markanızın sosyal medya hesaplarını profesyonelce yönetin! SOSYAL MEDYA YÖNETİMİNİN GÜCÜ: • Sosyal medyada öne çıkma • Profesyonel hesap yönetimi • Göz alıcı içerik üretimi • Etkili strateji geliştirme • Takipçileri sadık müşterilere dönüştürme AJANS MOBİL SOSYAL MEDYA HİZMETLERİ: • Profesyonel sosyal medya yönetimi • Yaratıcı içerik üretimi • Etkileşim ve topluluk yönetimi • Sosyal medya stratejisi geliştirme • Performans analizi ve raporlama Sosyal medyanın gücünü keşfedin ve dijital dünyada fark yaratın! Hemen iletişime geçin ve sosyal medyada başarıya giden yolu keşfedin!",
-            "keywords": "SosyalMedyaYönetimi, AjansMobil, SosyalMedya, DijitalPazarlama, İçerikÜretimi, SosyalMedyaStratejisi, ToplulukYönetimi, Etkileşim, SosyalMedyaBaşarısı, DijitalFark, SosyalMedyaHesapYönetimi, Yaratıcıİçerik, SosyalMedyaOptimizasyonu, DijitalTopluluk, SosyalMedyaPerformansı, DijitalEtkileşim, SosyalMedyaAnalizi, DijitalBaşarı, SosyalMedyaGücü, DijitalStrateji"
+            "id": "ajansmobil",
+            "tiktok": "17923",
+            "instagram": "17142",
+            "title": "Sosyal Medya Yönetimi: Dijital Başarının Anahtarı",
+            "keywords": "#SosyalMedyaYönetimi, #AjansMobil, #DijitalPazarlama, #İçerikÜretimi, #SosyalMedyaStratejisi, #ToplulukYönetimi",
+            "description": "Sosyal medyada sadece var olmak yetmez, öne çıkmak gerekir! Markanızın sosyal medya hesaplarını profesyonelce yönetin. Ajans Mobil ile sosyal medyanın gücünü keşfedin ve dijital dünyada fark yaratın. Profesyonel sosyal medya yönetimi, yaratıcı içerik üretimi ve etkili strateji geliştirme hizmetleriyle takipçilerinizi sadık müşterilere dönüştürün. Sosyal medyada öne çıkma, profesyonel hesap yönetimi ve göz alıcı içerik üretimi ile dijital başarıya ulaşın."
         },
         {
             "path": "contextarchitect",
-            "title": "Sales, Support, Operations: Functional Synergy with Context",
-            "description": "I'll explain how functional synergy is achieved through context. Sales, support, and operations departments in companies usually work in silos. Each unit has its own AI tools but they don't communicate with each other. Context Architecture unites these units around a common context. Context Architecture experts analyze the customer journey 360 degrees. Intents collected by sales, problems solved by support, and processes monitored by operations meet in a single context pool. The sales team makes more accurate offers by knowing the customer's past support requests. Support produces faster solutions by knowing the promises made during the sales process. Operations optimizes processes using data from both units. Result: Customer experience improves by 200%, inter-departmental coordination becomes perfect, company efficiency is maximized. With the Context Architecture profession, functions don't compete, they create synergy.",
-            "keywords": "ContextArchitect, AI, Technology, YunusSevgane, Innovation, Digital, Future"
+            "id": "contextarchitect",
+            "tiktok": "0",
+            "instagram": "17139",
+            "title": "Context Architecture: Fonksiyonel Sinerji ile Verimlilik",
+            "keywords": "#ContextArchitect, #AI, #Technology, #Innovation, #Digital, #Future",
+            "description": "Context Architecture ile şirketlerinizdeki satış, destek ve operasyon departmanlarını birleştirin. Her birimin AI araçları ortak bir bağlam havuzunda buluşur. Satışın topladığı niyetler, desteğin çözdüğü problemler ve operasyonun izlediği süreçler tek noktada buluşur. Müşteri deneyimi yüzde 200 artar, departmanlar arası koordinasyon mükemmel hale gelir, şirket verimliliği maksimize edilir."
         },
         {
             "path": "hanbroscargo",
-            "title": "Han Bros Cargo – Türkiye'den İngiltere'ye Taşınmanın En Güvenli Yolu",
-            "description": "Türkiye'deki evinizi özenle topluyor, eşyalarınızı güvenli şekilde İngiltere'deki yeni evinize ulaştırıyoruz. Profesyonel ekibimizle stressiz taşınma deneyimi için bizimle iletişime geçin! 🇹🇷✈️🇬🇧",
-            "keywords": "HanBrosCargo, EvTaşıma, UluslararasıNakliyat, Türkiyeİngiltere, TaşınmaHizmeti, GüvenliTaşımacılık, EvdenEveNakliyat, HanBros, İngiltereTaşınma, TaşınmaKolaylığı"
+            "id": "hanbroscargo",
+            "tiktok": "17917",
+            "instagram": "17133",
+            "title": "Han Bros Cargo: Türkiye'den İngiltere'ye Güvenli Taşıma",
+            "keywords": "#HanBrosCargo, #EvTaşıma, #UluslararasıNakliyat, #Türkiyeİngiltere, #GüvenliTaşımacılık, #TaşınmaHizmeti",
+            "description": "Türkiye'deki evinizi özenle topluyor, eşyalarınızı güvenli şekilde İngiltere'deki yeni evinize ulaştırıyoruz. Profesyonel ekibimizle stressiz taşınma deneyimi için bizimle iletişime geçin. Evden eve nakliyat, uluslararası taşımacılık ve güvenli hizmet anlayışımızla yanınızdayız."
         },
         {
             "path": "tadimlokantasi",
-            "title": "Tadım Lokantası Çanak Köfte",
-            "description": "Gaziantep Küsget'te lezzetin en dolu hali! Doyurucu, sulu sulu, taş fırında pişen çanak köfteyle geleneksel tat sofranda. Her lokmada ev yapımı lezzetin sıcaklığını hissedeceksin 🍽️🔥",
-            "keywords": "TadımLokantası, GaziantepYemekleri, ÇanakKöfte, KüsgetLezzetleri, GaziantepLokanta, EvYemeğiTadında, GaziantepMutfağı, LezzetDurakları, YöreselLezzet, TadımLezzeti"
+            "id": "tadimlokantasi",
+            "tiktok": "17916",
+            "instagram": "17132",
+            "title": "Tadım Lokantası: Gaziantep Çanak Köfte Lezzeti",
+            "keywords": "#TadımLokantası, #GaziantepYemekleri, #ÇanakKöfte, #KüsgetLezzetleri, #GaziantepMutfağı, #YöreselLezzet",
+            "description": "Gaziantep Küsget'te lezzetin en dolu hali! Doyurucu, sulu sulu, taş fırında pişen çanak köfteyle geleneksel tat sofranda. Her lokmada ev yapımı lezzetin sıcaklığını hissedeceksin. Gaziantep mutfağının otantik lezzetlerini keşfedin ve geleneksel yemek kültürümüzle tanışın."
         },
         {
             "path": "tiggergiftcomtr",
-            "title": "Tigger Gift Bakır Çorbalık",
-            "description": "Gaziantep'in bakırcılar çarşısında ustaların el emeğiyle şekillenen bakır çorbalıklar… Mutfakta zarafeti, sofrada geleneği buluşturuyor. Her detayı özenle işlenmiş bu özel parça, Gaziantep'in köklü bakır sanatını evinize taşıyor. Tigger Gift bakır çorbalıkla sofralarınıza sadece estetik değil, bir hikaye de katın.",
-            "keywords": "TiggerGift, Gaziantep, BakırSanatı, Elİşçiliği, BakırÇorbalık, GaziantepBakır, SofraZarafeti, ElEmeği, BakırcılarÇarşısı, DekoratifMutfak, TürkElSanatları, HandmadeTurkey, CopperArt, KitchenDecor"
+            "id": "tiggergiftcomtr",
+            "tiktok": "17919",
+            "instagram": "17135",
+            "title": "Tigger Gift: Bakır Sanatı ile Dekoratif Mutfak Ürünleri",
+            "keywords": "#TiggerGift, #Gaziantep, #BakırSanatı, #Elİşçiliği, #BakırÇorbalık, #TürkElSanatları",
+            "description": "Gaziantep'in bakırcılar çarşısında ustaların el emeğiyle şekillenen bakır çorbalıklar. Mutfakta zarafeti, sofrada geleneği buluşturuyor. Her detayı özenle işlenmiş bu özel parçalar, Gaziantep'in köklü bakır sanatını evinize taşıyor. Bakır çorbalıkla sofralarınıza sadece estetik değil, bir hikaye de katın."
         },
         {
             "path": "yunusevgane",
-            "title": "Satış, Destek, Operasyon: Bağlamla Fonksiyonel Sinerji",
-            "description": "Bağlamla fonksiyonel sinerjinin nasıl sağlandığını açıklayacağım. Şirketlerdeki satış, destek ve operasyon departmanları genellikle silolar halinde çalışır. Her birimin kendi AI araçları var ama birbirleriyle iletişim kurmaz. Context Architecture bu birimleri ortak bağlam etrafında birleştirir. Context Architecture uzmanları müşteri yolculuğunu 360 derece analiz eder. Satışın topladığı niyetler, desteğin çözdüğü problemler ve operasyonun izlediği süreçler tek bir bağlam havuzunda buluşur. Satış ekibi müşterinin geçmiş destek taleplerini bilerek daha doğru teklifler yapar. Destek satış sürecinde verilen sözleri bilerek daha hızlı çözümler üretir. Operasyon her iki birimin verilerini kullanarak süreçleri optimize eder. Sonuç: Müşteri deneyimi yüzde 200 iyileşir, departmanlar arası koordinasyon mükemmel hale gelir, şirket verimliliği maksimize edilir. Context Architecture mesleği ile fonksiyonlar rekabet etmez, sinerji yaratır.",
-            "keywords": "ContextArchitect, AI, Teknoloji, YunusSevgane, İnovasyon, Dijital, Gelecek"
+            "id": "yunusevgane",
+            "tiktok": "17915",
+            "instagram": "17129",
+            "title": "Context Architecture: Bağlamla Fonksiyonel Sinerji",
+            "keywords": "#ContextArchitect, #AI, #Teknoloji, #YunusSevgane, #İnovasyon, #Dijital",
+            "description": "Şirketlerdeki satış, destek ve operasyon departmanlarını Context Architecture ile birleştirin. Her birimin kendi AI araçları ortak bağlam etrafında buluşur. Satışın topladığı niyetler, desteğin çözdüğü problemler ve operasyonun izlediği süreçler tek bir bağlam havuzunda toplanır. Müşteri deneyimi yüzde 200 iyileşir, departmanlar arası koordinasyon mükemmel hale gelir."
         }
     ]
 }
