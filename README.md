@@ -14,7 +14,7 @@
 
 ### 🎯 Genel İşlem Sırası
 
-1. **Video Dönüştürme**: Klasördeki videoları önce `start.bat` ile H.265 formatına çevir
+1. **Video Dönüştürme**: ⚠️ **Sadece yeni/büyük** videoları `start.bat` ile H.265 formatına çevir (Zaten dönüştürülmüş küçük dosyaları ATLAYILIR)
 2. **Text Dosyaları Oku**: Klasördeki tüm `.text` ve `.txt` dosyalarını oku
 3. **ID'leri Al**: `id.json` dosyasından doğru ID'leri al
 4. **JSON Oluştur**: Aşağıdaki formata uygun JSON dosyası oluştur

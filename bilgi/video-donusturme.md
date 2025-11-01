@@ -49,6 +49,29 @@ Tamamlandı: ajansmobil.mp4
 - **İşlemci yoğun**: CPU'nun çok çalışacağını bil
 - **Zaman alır**: Büyük dosyalar uzun sürebilir
 
+### 🚨 Kritik: Sadece Yeni/Değişen Dosyaları İşle
+
+**start.bat tüm MP4 dosyalarını işler!** Ancak:
+
+- ✅ Sadece yeni eklenen veya değişen videoları dönüştür
+- ❌ Zaten dönüştürülmüş videoları TEKRAR işleme
+
+**Nasıl Anlarım?**
+- Büyük boyutlu dosyalar (30MB+) → Henüz dönüştürülmemiş
+- Küçük boyutlu dosyalar (10MB altı) → Zaten dönüştürülmüş
+
+**Örnek:**
+```
+ajansmobil.mp4 → 9.3MB  ✅ Dönüştürülmüş, ATLAYILIR
+livabella_pastanesi.mp4 → 45MB  ❌ YENİ, İŞLENMELİ
+tiggergiftcomtr.mp4 → 70MB  ❌ YENİ, İŞLENMELİ
+```
+
+**Öneri:**
+- Klasöre girmeden önce dosya boyutlarına bak
+- Sadece büyük dosyalar varsa start.bat çalıştır
+- Tüm dosyalar küçükse video dönüştürme adımını ATLA
+
 ## 📊 Tipik Boyut Azaltmaları
 
 - 10MB → 4-6MB

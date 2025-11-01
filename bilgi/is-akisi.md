@@ -17,16 +17,26 @@ cd sosyalmedia/2025-11-01
 
 ### 2️⃣ Video Dönüştürme
 
+**⚠️ ÖNEMLİ: Sadece yeni/büyük dosyaları işle!**
+
+**Kontrol Et:**
+- Hangi dosyalar büyük? (30MB+)
+- Hangi dosyalar küçük? (10MB-)
+
+**Büyük dosya yoksa → Bu adımı ATLA!**
+
+**Büyük dosya varsa:**
 ```bash
 # Video dönüştürme scriptini çalıştır
 ..\start.bat
 ```
 
 **Beklenen Sonuç:**
-- Tüm videolar H.265 formatına çevrildi ✅
+- Yeni/büyük videolar H.265 formatına çevrildi ✅
 - Dosya boyutları azaldı ✅
+- Zaten küçük videolar değişmedi ✅
 
-**İpucu:** Bu işlem uzun sürebilir, sabredelim!
+**İpucu:** Bu işlem uzun sürebilir, sabredelim! Ama zaten dönüştürülmüş videoları tekrar işlemiyoruz.
 
 ---
 
