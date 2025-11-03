@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "path": "yunusevgane",
+            "id": "yunusevgane",
+            "tiktok": "17915",
+            "instagram": "17129",
+            "title": "Retrieval Politikası Tasarımı (Policy-Based RAG) - Context Architecture",
+            "keywords": "#ContextArchitect, #AI, #Teknoloji, #YunusSevgane, #İnovasyon, #Dijital, #Gelecek, #RAG, #PolicyBasedRAG, #BilgiErişimi",
+            "description": "Retrieval politikası tasarımını açıklıyorum. RAG sistemleri genellikle basit benzerlik aramaları yapar. Policy-based RAG iş kurallarını ve bağlamsal faktörleri dikkate alarak akıllı bilgi erişim stratejileri uygular. Context Architecture uzmanları kullanıcı rolüne göre farklı bilgi seviyeleri, zaman faktörüne göre mevcut/geçmiş veri dengesi, güvenlik seviyesine göre erişim filtreleri tanımlar. RAG sistemleri yüzde 400 daha doğru bilgi erişir."
+        },
+        {
+            "path": "contextarchitect",
+            "id": "contextarchitect",
+            "tiktok": "0",
+            "instagram": "17139",
+            "title": "Retrieval Policy Design (Policy-Based RAG) - Context Architecture",
+            "keywords": "#ContextArchitect, #AI, #Technology, #YunusSevgane, #Innovation, #Digital, #Future, #RAG, #PolicyBasedRAG, #InformationRetrieval",
+            "description": "I explain Retrieval policy design. RAG systems usually perform simple similarity searches. Policy-based RAG implements intelligent information retrieval strategies by considering business rules and contextual factors. Context Architecture experts define different information levels based on user role, current/historical data balance based on time factor, access filters based on security level. RAG systems retrieve 400% more accurate information."
+        }
+    ]
+}
+

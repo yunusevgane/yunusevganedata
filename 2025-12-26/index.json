@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "path": "yunusevgane",
+            "id": "yunusevgane",
+            "tiktok": "17915",
+            "instagram": "17129",
+            "title": "Canary & Dark Launch: Kademeli Bağlam Yayılımı - Context Architecture",
+            "keywords": "#ContextArchitect, #AI, #Teknoloji, #YunusSevgane, #İnovasyon, #Dijital, #Gelecek, #CanaryDeployment, #DarkLaunch, #GradualRollout",
+            "description": "Canary ve dark launch stratejilerini açıklıyorum. Yeni bağlam değişikliklerini tüm kullanıcılara aynı anda yayınlamak risklidir. Canary deployment bağlam değişikliklerinin kademeli yayılımını sağlar. Context Architecture uzmanları kademeli yayılım stratejisi tasarlar. Bağlam değişiklikleri yüzde 100 güvenli yayınlanır."
+        },
+        {
+            "path": "contextarchitect",
+            "id": "contextarchitect",
+            "tiktok": "0",
+            "instagram": "17139",
+            "title": "Canary & Dark Launch: Gradual Context Rollout - Context Architecture",
+            "keywords": "#ContextArchitect, #AI, #Technology, #YunusSevgane, #Innovation, #Digital, #Future, #CanaryDeployment, #DarkLaunch, #GradualRollout",
+            "description": "I explain Canary and dark launch strategies. Releasing new context changes to all users simultaneously is risky. Canary deployment ensures gradual rollout of context changes. Context Architecture experts design gradual rollout strategy. Context changes are rolled out 100% safely."
+        }
+    ]
+}
+

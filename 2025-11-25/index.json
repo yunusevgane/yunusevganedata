@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "path": "yunusevgane",
+            "id": "yunusevgane",
+            "tiktok": "17915",
+            "instagram": "17129",
+            "title": "Veri Sınıflandırması ve Bağlam Seviyeleri - Context Architecture",
+            "keywords": "#ContextArchitect, #AI, #Teknoloji, #YunusSevgane, #İnovasyon, #Dijital, #Gelecek, #DataClassification, #VeriGüvenliği, #PII, #Confidential",
+            "description": "Veri sınıflandırması ve bağlam seviyelerini açıklıyorum. Tüm veriler aynı değildir. Kamu bilgileri, PII (kişisel veriler), gizli bilgiler farklı güvenlik seviyeleri gerektirir. Context Architecture bu sınıflandırmayı otomatik olarak yönetir. Context Architecture uzmanları veri hassasiyet matrisleri oluşturur. Yüzde 100 veri güvenliği uyumluluğu, otomatik uyumluluk, risk minimizasyonu."
+        },
+        {
+            "path": "contextarchitect",
+            "id": "contextarchitect",
+            "tiktok": "0",
+            "instagram": "17139",
+            "title": "Data Classification and Context Levels - Context Architecture",
+            "keywords": "#ContextArchitect, #AI, #Technology, #YunusSevgane, #Innovation, #Digital, #Future, #DataClassification, #DataSecurity, #PII, #Confidential",
+            "description": "I explain data classification and context levels. Not all data is the same. Public information, PII (personal data), confidential information require different security levels. Context Architecture automatically handles this classification. Context Architecture experts create data sensitivity matrices. 100% data security compliance, automatic compliance, risk minimization."
+        }
+    ]
+}
+

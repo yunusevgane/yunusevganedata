@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "path": "yunusevgane",
+            "id": "yunusevgane",
+            "tiktok": "17915",
+            "instagram": "17129",
+            "title": "Prompt Şablonları vs. Bağlam Şablonları - Context Architecture",
+            "keywords": "#ContextArchitect, #AI, #Teknoloji, #YunusSevgane, #İnovasyon, #Dijital, #Gelecek, #PromptEngineering, #BağlamŞablonları, #DinamikAI",
+            "description": "Prompt şablonları ile bağlam şablonları arasındaki farkı açıklıyorum. Prompt şablonları statik metinlerdir. Bağlam şablonları dinamik yapılardır: Kullanıcı durumu, geçmiş etkileşimler, iş kuralları otomatik olarak entegre edilir. Context Architecture uzmanları durumsal bağlam şablonları tasarlar. AI yanıtları yüzde 500 daha kişiselleştirilir, bağlamsal tutarlılık sağlanır."
+        },
+        {
+            "path": "contextarchitect",
+            "id": "contextarchitect",
+            "tiktok": "0",
+            "instagram": "17139",
+            "title": "Prompt Templates vs. Context Templates - Context Architecture",
+            "keywords": "#ContextArchitect, #AI, #Technology, #YunusSevgane, #Innovation, #Digital, #Future, #PromptEngineering, #ContextTemplates, #DynamicAI",
+            "description": "I explain the difference between prompt templates and context templates. Prompt templates are static texts. Context templates are dynamic structures: User state, past interactions, business rules are automatically integrated. Context Architecture experts design situational context templates. AI responses become 500% more personalized, contextual consistency is achieved."
+        }
+    ]
+}
+

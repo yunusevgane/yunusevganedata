@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "path": "yunusevgane",
+            "id": "yunusevgane",
+            "tiktok": "17915",
+            "instagram": "17129",
+            "title": "Negatif Bağlam Örnekleriyle Hataları Azaltma - Context Architecture",
+            "keywords": "#ContextArchitect, #AI, #Teknoloji, #YunusSevgane, #İnovasyon, #Dijital, #Gelecek, #NegativeExamples, #HataAzaltma, #AIÖğrenme",
+            "description": "Negatif bağlam örnekleriyle hata azaltma tekniğini açıklıyorum. AI sistemleri sadece 'doğru' örneklerden öğrenmez. 'Yanlış' örnekler de öğretir. Negatif bağlam sistemin ne yapmaması gerektiğini öğrenmesini sağlar. Context Architecture uzmanları negatif örnek koleksiyonları oluşturur. Hata oranları yüzde 70 azalır."
+        },
+        {
+            "path": "contextarchitect",
+            "id": "contextarchitect",
+            "tiktok": "0",
+            "instagram": "17139",
+            "title": "Reducing Errors with Negative Context Examples - Context Architecture",
+            "keywords": "#ContextArchitect, #AI, #Technology, #YunusSevgane, #Innovation, #Digital, #Future, #NegativeExamples, #ErrorReduction, #AILearning",
+            "description": "I explain the technique of reducing errors with negative context examples. AI systems don't only learn from 'correct' examples. 'Wrong' examples also teach. Negative context enables the system to learn what it should not do. Context Architecture experts create collections of negative examples. Error rates decrease by 70%."
+        }
+    ]
+}
+

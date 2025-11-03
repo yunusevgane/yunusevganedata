@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "path": "yunusevgane",
+            "id": "yunusevgane",
+            "tiktok": "17915",
+            "instagram": "17129",
+            "title": "Guardrail Tasarımı: Kurallar, Test, Telemetri - Context Architecture",
+            "keywords": "#ContextArchitect, #AI, #Teknoloji, #YunusSevgane, #İnovasyon, #Dijital, #Gelecek, #Guardrails, #AIGüvenliği, #KontrolMekanizmaları",
+            "description": "Guardrail tasarımını açıklıyorum. AI sistemleri daha güçlü hale geldikçe kontrol mekanizmaları kritik önem kazanır. Guardrail'ler AI'nın güvenli sınırlar içinde çalışmasını sağlayan koruyucu sistemlerdir. Context Architecture uzmanları üç katmanlı guardrail sistemi kurar: Kural katmanı, test katmanı, telemetri katmanı. AI sistemleri yüzde 100 güvenli sınırlar içinde çalışır."
+        },
+        {
+            "path": "contextarchitect",
+            "id": "contextarchitect",
+            "tiktok": "0",
+            "instagram": "17139",
+            "title": "Guardrail Design: Rules, Testing, Telemetry - Context Architecture",
+            "keywords": "#ContextArchitect, #AI, #Technology, #YunusSevgane, #Innovation, #Digital, #Future, #Guardrails, #AISafety, #ControlMechanisms",
+            "description": "I explain Guardrail design. As AI systems become more powerful, control mechanisms become critical. Guardrails are protective systems that ensure AI operates within safe boundaries. Context Architecture experts establish a three-layer guardrail system: Rule layer, test layer, telemetry layer. AI systems operate within 100% safe boundaries."
+        }
+    ]
+}
+

@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "path": "yunusevgane",
+            "id": "yunusevgane",
+            "tiktok": "17915",
+            "instagram": "17129",
+            "title": "AI Değil, Bağlam Ölçeklenir Tezi - Context Architecture",
+            "keywords": "#ContextArchitect, #AI, #Teknoloji, #YunusSevgane, #İnovasyon, #Dijital, #Gelecek, #Ölçeklenebilirlik, #ContextArchitecture, #AIStrateji",
+            "description": "'AI değil, bağlam ölçeklenir' tezini açıklıyorum. Şirketler AI modellerini ölçeklendirmeye odaklanıyor: Daha büyük modeller, daha fazla GPU, daha yüksek maliyetler. Ancak gerçekten ölçeklenen bağlam mimarisidir. Context Architecture uzmanları aynı AI modeliyle farklı bağlamlar yaratarak sonsuz uygulama alanı oluşturur. Bir GPT modeli doğru bağlamla doktor, avukat ve mühendis asistanı olabilir. Maliyet sabit kalırken çözüm alanı genişler."
+        },
+        {
+            "path": "contextarchitect",
+            "id": "contextarchitect",
+            "tiktok": "0",
+            "instagram": "17139",
+            "title": "Context Scales, Not AI Thesis - Context Architecture",
+            "keywords": "#ContextArchitect, #AI, #Technology, #YunusSevgane, #Innovation, #Digital, #Future, #Scalability, #ContextArchitecture, #AIStrategy",
+            "description": "I explain the thesis 'Context scales, not AI'. Companies focus on scaling AI models: Bigger models, more GPUs, higher costs. However, what truly scales is the context architecture. Context Architecture experts create infinite application areas by creating different contexts with the same AI model. One GPT model can be a doctor, lawyer, and engineer assistant with the right context. While cost remains fixed, the solution space expands."
+        },
+        {
+            "path": "ajansmobil",
+            "id": "ajansmobil",
+            "tiktok": "17923",
+            "instagram": "17142",
+            "title": "Web Tasarım ile Dijital Vitrininizi Parlatın - Ajans Mobil",
+            "keywords": "#WebTasarım, #AjansMobil, #WebSitesiTasarımı, #ModernTasarım, #KullanıcıDeneyimi, #MobilUyumlu, #ResponsiveTasarım, #DijitalVitrin, #WebGeliştirme, #EstetikTasarım",
+            "description": "Dijital dünyadaki vitrininiz web sitenizdir. Markanız için modern, işlevsel ve estetik bir web sitesi tasarlayın! Ajans Mobil web tasarım hizmetleri ile modern ve estetik web tasarımı, kullanıcı deneyimi odaklı tasarım, mobil uyumlu ve responsive tasarım, arama motoru optimizasyonu, dijital kimlik inşası sunuyoruz."
+        }
+    ]
+}
+

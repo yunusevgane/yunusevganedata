@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "path": "yunusevgane",
+            "id": "yunusevgane",
+            "tiktok": "17915",
+            "instagram": "17129",
+            "title": "Çok Ajanlı Sistemlerde Ortak Bağlam - Context Architecture",
+            "keywords": "#ContextArchitect, #AI, #Teknoloji, #YunusSevgane, #İnovasyon, #Dijital, #Gelecek, #MultiAgent, #OrtakBağlam, #AIKoordinasyonu",
+            "description": "Çok ajanlı sistemlerde ortak bağlamı açıklıyorum. Çok ajanlı AI sistemlerinde her ajan kendi bağlamında çalışırsa kaos oluşur. Context Architecture tüm ajanların paylaştığı ortak bağlam havuzu yaratarak koordinasyonu sağlar. Bir ajan öğrendiği bilgiyi ortak bağlama ekler, diğer ajanlar bu bilgiden faydalanır. Ajanlar arası sinerji yüzde 400 artar, sistem zekası katlanır."
+        },
+        {
+            "path": "contextarchitect",
+            "id": "contextarchitect",
+            "tiktok": "0",
+            "instagram": "17139",
+            "title": "Shared Context in Multi-Agent Systems - Context Architecture",
+            "keywords": "#ContextArchitect, #AI, #Technology, #YunusSevgane, #Innovation, #Digital, #Future, #MultiAgent, #SharedContext, #AICoordination",
+            "description": "I explain shared context in multi-agent systems. If each agent works in its own context in multi-agent AI systems, chaos occurs. Context Architecture ensures coordination by creating a shared context pool that all agents share. One agent adds learned information to shared context, other agents benefit from this information. Inter-agent synergy increases by 400%, system intelligence multiplies."
+        }
+    ]
+}
+

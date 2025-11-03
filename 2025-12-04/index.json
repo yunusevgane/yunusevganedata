@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "path": "yunusevgane",
+            "id": "yunusevgane",
+            "tiktok": "17915",
+            "instagram": "17129",
+            "title": "Tek Bağlam Kaynağı Prensibi - Context Architecture",
+            "keywords": "#ContextArchitect, #AI, #Teknoloji, #YunusSevgane, #İnovasyon, #Dijital, #Gelecek, #SingleSourceOfTruth, #VeriTutarlılığı, #BağlamYönetimi",
+            "description": "'Tek Bağlam Kaynağı' prensibini açıklıyorum. Çoklu sistem ortamlarında aynı bağlam bilgisi farklı yerlerde saklanırsa kaos oluşur. Tek Bağlam Kaynağı tek gerçek kaynak garantisi sağlar. Context Architecture uzmanları merkezi bağlam depoları tasarlar: Tüm sistemler aynı kaynaktan beslenir, güncellemeler tek noktadan yapılır. Bağlam tutarsızlıkları yüzde 100 ortadan kalkar."
+        },
+        {
+            "path": "contextarchitect",
+            "id": "contextarchitect",
+            "tiktok": "0",
+            "instagram": "17139",
+            "title": "Single Source of Context Principle - Context Architecture",
+            "keywords": "#ContextArchitect, #AI, #Technology, #YunusSevgane, #Innovation, #Digital, #Future, #SingleSourceOfTruth, #DataConsistency, #ContextManagement",
+            "description": "I explain the 'Single Source of Context' principle. In multi-system environments, if the same context information is stored in different places, chaos occurs. Single Source of Context guarantees a single source of truth. Context Architecture experts design centralized context repositories: All systems feed from the same source, updates are made from a single point. Context inconsistencies are 100% eliminated."
+        }
+    ]
+}
+

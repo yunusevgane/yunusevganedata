@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "path": "yunusevgane",
+            "id": "yunusevgane",
+            "tiktok": "17915",
+            "instagram": "17129",
+            "title": "Context Graph: Olay-Veri-Niyet Bağlantı Haritası - Context Architecture",
+            "keywords": "#ContextArchitect, #AI, #Teknoloji, #YunusSevgane, #İnovasyon, #Dijital, #Gelecek, #ContextGraph, #VeriModelleme, #AIZeka",
+            "description": "Context Graph'ın nasıl çalıştığını açıklıyorum. Geleneksel AI sistemleri veriyi düz liste olarak işler. Context Graph olaylar, veriler ve niyetler arasında anlamlı bağlantılar yaratır. Context Architecture uzmanları müşteri etkileşimlerini grafik yapısında modeller. 'Müşteri X ürün Y hakkında sordu' sadece bir olay değil, geçmiş satın alımlara, mevcut ihtiyaçlara ve gelecek niyetlere bağlı bir düğümdür. AI sistemleri yüzde 500 daha akıllı kararlar verir."
+        },
+        {
+            "path": "contextarchitect",
+            "id": "contextarchitect",
+            "tiktok": "0",
+            "instagram": "17139",
+            "title": "Context Graph: Event-Data-Intent Connection Map - Context Architecture",
+            "keywords": "#ContextArchitect, #AI, #Technology, #YunusSevgane, #Innovation, #Digital, #Future, #ContextGraph, #DataModeling, #AIIntelligence",
+            "description": "I explain how Context Graph works. Traditional AI systems process data as flat lists. Context Graph creates meaningful connections between events, data, and intents. Context Architecture experts model customer interactions in graph structure. 'Customer X asked about product Y' is not just an event, but a node connected to past purchases, current needs, and future intents. AI systems make 500% smarter decisions."
+        }
+    ]
+}
+

@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "path": "yunusevgane",
+            "id": "yunusevgane",
+            "tiktok": "17915",
+            "instagram": "17129",
+            "title": "Olay Güdümlü Bağlam Mimarisi - Context Architecture",
+            "keywords": "#ContextArchitect, #AI, #Teknoloji, #YunusSevgane, #İnovasyon, #Dijital, #Gelecek, #EventDriven, #DinamikBağlam, #GerçekZamanlıAI",
+            "description": "Olay güdümlü bağlam mimarisini açıklıyorum. Geleneksel bağlam sistemleri statiktir. Olay güdümlü bağlam, olaylar meydana geldikçe bağlamı dinamik olarak günceller. Context Architecture uzmanları olay tetikleyicilerini tanımlar: Kullanıcı aksiyonları, sistem durumu değişimleri, harici API yanıtları. Bağlam her zaman güncel kalır, kullanıcı deneyimi proaktif hale gelir."
+        },
+        {
+            "path": "contextarchitect",
+            "id": "contextarchitect",
+            "tiktok": "0",
+            "instagram": "17139",
+            "title": "Event-Driven Context Architecture - Context Architecture",
+            "keywords": "#ContextArchitect, #AI, #Technology, #YunusSevgane, #Innovation, #Digital, #Future, #EventDriven, #DynamicContext, #RealTimeAI",
+            "description": "I explain event-driven context architecture. Traditional context systems are static. Event-driven context dynamically updates context as events occur. Context Architecture experts define event triggers: User actions, system state changes, external API responses. Context always stays current, user experience becomes proactive."
+        }
+    ]
+}
+

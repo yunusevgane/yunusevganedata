@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "path": "yunusevgane",
+            "id": "yunusevgane",
+            "tiktok": "17915",
+            "instagram": "17129",
+            "title": "Rol Tabanlı Bağlam Erişimi (RBAC for Context) - Context Architecture",
+            "keywords": "#ContextArchitect, #AI, #Teknoloji, #YunusSevgane, #İnovasyon, #Dijital, #Gelecek, #RBAC, #ErişimKontrolü, #VeriGüvenliği",
+            "description": "Rol tabanlı bağlam erişimini açıklıyorum. Tüm kullanıcılar aynı bağlam bilgilerine erişemez. Context için RBAC bağlam erişimini kullanıcı rollerine göre düzenler. Context Architecture uzmanları bağlam yetkilendirme matrisleri tasarlar: Admin (tam erişim), Manager (departman verileri), Employee (kendi projeleri), Guest (genel bilgiler). Veri güvenliği yüzde 100 sağlanır."
+        },
+        {
+            "path": "contextarchitect",
+            "id": "contextarchitect",
+            "tiktok": "0",
+            "instagram": "17139",
+            "title": "Role-Based Context Access (RBAC for Context) - Context Architecture",
+            "keywords": "#ContextArchitect, #AI, #Technology, #YunusSevgane, #Innovation, #Digital, #Future, #RBAC, #AccessControl, #DataSecurity",
+            "description": "I explain role-based context access. Not all users can access the same context information. RBAC for Context organizes context access according to user roles. Context Architecture experts design context authorization matrices: Admin (full access), Manager (department data), Employee (own projects), Guest (general information). Data security is 100% ensured."
+        }
+    ]
+}
+

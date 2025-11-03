@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "path": "yunusevgane",
+            "id": "yunusevgane",
+            "tiktok": "17915",
+            "instagram": "17129",
+            "title": "Context Drift Tespiti ve Alarm Eşikleri - Context Architecture",
+            "keywords": "#ContextArchitect, #AI, #Teknoloji, #YunusSevgane, #İnovasyon, #Dijital, #Gelecek, #ContextDrift, #DriftDetection, #Performansİzleme",
+            "description": "Context drift tespiti ve alarm eşiklerini açıklıyorum. Bağlam kalitesi zamanla bozulabilir. Context drift sessizce sistem performansını bozar. Context Architecture uzmanları drift tespit sistemleri kurar: Bağlam frekans analizi, semantik kayma tespiti, performans değişim izleme. Context drift erken tespit edilir, sistem performansı stabil kalır."
+        },
+        {
+            "path": "contextarchitect",
+            "id": "contextarchitect",
+            "tiktok": "0",
+            "instagram": "17139",
+            "title": "Context Drift Detection and Alert Thresholds - Context Architecture",
+            "keywords": "#ContextArchitect, #AI, #Technology, #YunusSevgane, #Innovation, #Digital, #Future, #ContextDrift, #DriftDetection, #PerformanceMonitoring",
+            "description": "I explain Context drift detection and alarm thresholds. Context quality can degrade over time. Context drift silently deteriorates system performance. Context Architecture experts establish drift detection systems: Context frequency analysis, semantic shift detection, performance change monitoring. Context drift is detected early, system performance stays stable."
+        }
+    ]
+}
+

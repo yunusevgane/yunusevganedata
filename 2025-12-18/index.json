@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "path": "yunusevgane",
+            "id": "yunusevgane",
+            "tiktok": "17915",
+            "instagram": "17129",
+            "title": "Fail-Safe Tasarım: Bağlam Yoksa Güvenli Düşüş - Context Architecture",
+            "keywords": "#ContextArchitect, #AI, #Teknoloji, #YunusSevgane, #İnovasyon, #Dijital, #Gelecek, #FailSafe, #ResilientArchitecture, #SystemReliability",
+            "description": "Fail-safe tasarımını açıklıyorum. Bağlam sistemleri başarısız olabilir. Bu durumda sistem çökmemeli, güvenli moda geçmeli. Context Architecture uzmanları fail-safe mekanizmaları tasarlar: Varsayılan bağlam, yedek kaynaklar, bozulmuş mod işletimi. Sistem kesintisiz çalışır, kullanıcı deneyimi korunur."
+        },
+        {
+            "path": "contextarchitect",
+            "id": "contextarchitect",
+            "tiktok": "0",
+            "instagram": "17139",
+            "title": "Fail-Safe Design: Safe Fallback When Context is Missing - Context Architecture",
+            "keywords": "#ContextArchitect, #AI, #Technology, #YunusSevgane, #Innovation, #Digital, #Future, #FailSafe, #ResilientArchitecture, #SystemReliability",
+            "description": "I explain fail-safe design. Context systems can fail. In this case, system shouldn't crash, should switch to safe mode. Context Architecture experts design fail-safe mechanisms: Default context, backup sources, degraded mode operation. System works uninterrupted, user experience is preserved."
+        }
+    ]
+}
+

@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "path": "yunusevgane",
+            "id": "yunusevgane",
+            "tiktok": "17915",
+            "instagram": "17129",
+            "title": "Bağlam Versiyonlama ve Değişim Günlükleri - Context Architecture",
+            "keywords": "#ContextArchitect, #AI, #Teknoloji, #YunusSevgane, #İnovasyon, #Dijital, #Gelecek, #Versioning, #ChangeManagement, #BağlamYönetimi",
+            "description": "Bağlam versiyonlama ve değişim günlüklerini açıklıyorum. Kod için Git varsa, bağlam için de versiyonlama olmalı. Context Architecture bu sistematik yaklaşımı sağlar. Context Architecture uzmanları bağlam versiyonlama sistemleri kurar: Her bağlam değişikliği için versiyon numarası, değişiklik açıklaması, etki analizi, geri alma planı. Bağlam değişiklikleri kontrollü hale gelir."
+        },
+        {
+            "path": "contextarchitect",
+            "id": "contextarchitect",
+            "tiktok": "0",
+            "instagram": "17139",
+            "title": "Context Versioning and Change Logs - Context Architecture",
+            "keywords": "#ContextArchitect, #AI, #Technology, #YunusSevgane, #Innovation, #Digital, #Future, #Versioning, #ChangeManagement, #ContextManagement",
+            "description": "I explain context versioning and change logs. If there's Git for code, there should be versioning for context too. Context Architecture provides this systematic approach. Context Architecture experts establish context versioning systems: Version number for each context change, change description, impact analysis, rollback plan. Context changes become controlled."
+        }
+    ]
+}
+

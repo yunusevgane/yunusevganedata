@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "path": "yunusevgane",
+            "id": "yunusevgane",
+            "tiktok": "17915",
+            "instagram": "17129",
+            "title": "ContextOps Çalışma Akışı: Tasarım-Test-Devreye Alma - Context Architecture",
+            "keywords": "#ContextArchitect, #AI, #Teknoloji, #YunusSevgane, #İnovasyon, #Dijital, #Gelecek, #ContextOps, #DevOps, #OperationsManagement",
+            "description": "ContextOps çalışma akışını açıklıyorum. Geleneksel DevOps kod odaklıdır. ContextOps bağlam odaklı operasyon süreçleridir. Context Architecture uzmanları bağlam yaşam döngüsünü yönetir: Bağlam tasarımı → Kalite testleri → Staging ortamı doğrulaması → Kademeli prod rollout → Sürekli izleme. Bağlam kalitesi garanti edilir."
+        },
+        {
+            "path": "contextarchitect",
+            "id": "contextarchitect",
+            "tiktok": "0",
+            "instagram": "17139",
+            "title": "ContextOps Workflow: Design-Test-Deploy - Context Architecture",
+            "keywords": "#ContextArchitect, #AI, #Technology, #YunusSevgane, #Innovation, #Digital, #Future, #ContextOps, #DevOps, #OperationsManagement",
+            "description": "I explain the ContextOps workflow. Traditional DevOps is code-focused. ContextOps is context-focused operation processes. Context Architecture experts manage context lifecycle: Context design → Quality tests → Staging environment validation → Gradual prod rollout → Continuous monitoring. Context quality guaranteed."
+        }
+    ]
+}
+

@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "path": "yunusevgane",
+            "id": "yunusevgane",
+            "tiktok": "17915",
+            "instagram": "17129",
+            "title": "Context Window Ekonomisi: Token İsrafını Azaltma - Context Architecture",
+            "keywords": "#ContextArchitect, #AI, #Teknoloji, #YunusSevgane, #İnovasyon, #Dijital, #Gelecek, #TokenOptimization, #MaliyetYönetimi, #LLMEkonomi",
+            "description": "Context window ekonomisi ile token israfını nasıl azaltacağımızı açıklıyorum. LLM'lerde her token para tutar. Context Architecture token kullanımını optimize ederek hem maliyet hem kalite avantajı sağlar. Context Architecture uzmanları akıllı token yönetim stratejileri geliştirir: Önem skorlarına dayalı bilgi filtreleme, tekrarlayan içerik eliminasyonu, dinamik context window boyutlandırma. Token maliyeti yüzde 60 azalır."
+        },
+        {
+            "path": "contextarchitect",
+            "id": "contextarchitect",
+            "tiktok": "0",
+            "instagram": "17139",
+            "title": "Context Window Economy: Reducing Token Waste - Context Architecture",
+            "keywords": "#ContextArchitect, #AI, #Technology, #YunusSevgane, #Innovation, #Digital, #Future, #TokenOptimization, #CostManagement, #LLMEconomy",
+            "description": "I explain how to reduce token waste with Context window economy. In LLMs, every token costs money. Context Architecture provides both cost and quality advantages by optimizing token usage. Context Architecture experts develop smart token management strategies: Information filtering based on importance scores, repetitive content elimination, dynamic context window sizing. Token cost decreases by 60%."
+        }
+    ]
+}
+

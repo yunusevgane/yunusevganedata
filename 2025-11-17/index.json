@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "path": "yunusevgane",
+            "id": "yunusevgane",
+            "tiktok": "17915",
+            "instagram": "17129",
+            "title": "Context Cache ve Warm-Start Teknikleri - Context Architecture",
+            "keywords": "#ContextArchitect, #AI, #Teknoloji, #YunusSevgane, #İnovasyon, #Dijital, #Gelecek, #CachingStrategies, #PerformansOptimizasyonu, #WarmStart",
+            "description": "Context cache ve warm-start tekniklerini açıklıyorum. AI sistemleri her seferinde sıfırdan başlarsa yavaş ve maliyetli olur. Context cache sık kullanılan bağlamları önceden hazırlayarak sistem performansını dramatik olarak artırır. Context Architecture uzmanları kullanıcı davranış kalıplarını analiz ederek hangi bağlamların cache'leneceğini belirler. Sistem yanıt süresi saniyelerden milisaniyelere düşer."
+        },
+        {
+            "path": "contextarchitect",
+            "id": "contextarchitect",
+            "tiktok": "0",
+            "instagram": "17139",
+            "title": "Context Cache & Warm-Start Techniques - Context Architecture",
+            "keywords": "#ContextArchitect, #AI, #Technology, #YunusSevgane, #Innovation, #Digital, #Future, #CachingStrategies, #PerformanceOptimization, #WarmStart",
+            "description": "I explain Context cache and warm-start techniques. If AI systems start from scratch every time, they become slow and costly. Context cache dramatically increases system performance by preparing frequently used contexts in advance. Context Architecture experts determine which contexts to cache by analyzing user behavior patterns. System response time drops from seconds to milliseconds."
+        }
+    ]
+}
+

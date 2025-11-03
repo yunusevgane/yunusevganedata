@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "path": "yunusevgane",
+            "id": "yunusevgane",
+            "tiktok": "17915",
+            "instagram": "17129",
+            "title": "Vektör Veritabanı Seçimi: Ne Zaman, Neden, Nasıl? - Context Architecture",
+            "keywords": "#ContextArchitect, #AI, #Teknoloji, #YunusSevgane, #İnovasyon, #Dijital, #Gelecek, #VectorDatabase, #DatabaseSelection, #TeknikKararlar",
+            "description": "Vektör veritabanı seçimini açıklıyorum. 'Hangi vektör DB kullanmalıyım?' yanlış başlangıç noktası. Doğru soru: 'Bağlam stratejim hangi vektör DB özelliklerini gerektiriyor?' Context Architecture teknik seçimleri iş gereksinimlerine dayanarak yapar. Basit prototipler için Chroma, ölçeklenmiş üretim için Pinecone, karmaşık ilişkiler için Weaviate. Teknoloji seçimi iş hedeflerine hizmet eder."
+        },
+        {
+            "path": "contextarchitect",
+            "id": "contextarchitect",
+            "tiktok": "0",
+            "instagram": "17139",
+            "title": "Vector Database Selection: When, Why, How? - Context Architecture",
+            "keywords": "#ContextArchitect, #AI, #Technology, #YunusSevgane, #Innovation, #Digital, #Future, #VectorDatabase, #DatabaseSelection, #TechnicalDecisions",
+            "description": "I explain vector database selection. 'Which vector DB should I use?' is the wrong starting point. The right question is: 'What vector DB features does my context strategy require?' Context Architecture makes technical choices based on business requirements. Chroma for simple prototypes, Pinecone for scaled production, Weaviate for complex relationships. Technology choice serves business goals."
+        }
+    ]
+}
+
