@@ -1,33 +1,40 @@
 {
-    "data": [
-        {
-            "path": "yunusevgane",
-            "id": "yunusevgane",
-            "tiktok": "17915",
-            "instagram": "17129",
-            "title": "Hızlı Kazanımlar: 30 Günde Bağlam Tabanlı 3 İyileştirme - Context Architecture",
-            "keywords": "#ContextArchitect, #AI, #Teknoloji, #YunusSevgane, #İnovasyon, #Dijital, #Gelecek, #HızlıKazanım, #AIProjeleri, #ROI, #ContextArchitecture",
-            "description": "30 günde bağlam tabanlı 3 iyileştirmeyi açıklıyorum. Context Architecture 30 günlük sprintlerle ölçülebilir değer yaratır. İyileştirme 1: Müşteri destek chatbotuna bağlam hafızası - yüzde 60 daha etkili yanıtlar. İyileştirme 2: Satış CRM'ine bağlamsal müşteri profili - yüzde 40 daha yüksek dönüşüm. İyileştirme 3: Operasyonel raporlamada bağlamsal anomali tespiti - yüzde 70 daha erken problem tespiti. 30 günde somut ROI, 90 günde stratejik avantaj."
-        },
-        {
-            "path": "contextarchitect",
-            "id": "contextarchitect",
-            "tiktok": "0",
-            "instagram": "17139",
-            "title": "Quick Wins: 3 Context-Based Improvements in 30 Days - Context Architecture",
-            "keywords": "#ContextArchitect, #AI, #Technology, #YunusSevgane, #Innovation, #Digital, #Future, #QuickWins, #AIProjects, #ROI, #ContextArchitecture",
-            "description": "I explain 3 context-based improvements in 30 days. Context Architecture creates measurable value with 30-day sprints. Improvement 1: Context memory to customer support chatbot - 60% more effective responses. Improvement 2: Contextual customer profile to sales CRM - 40% higher conversion. Improvement 3: Contextual anomaly detection in operational reporting - 70% earlier problem detection. Concrete ROI in 30 days, strategic advantage in 90 days."
-        },
-        {
-            "path": "ajansmobil",
-            "id": "ajansmobil",
-            "tiktok": "17923",
-            "instagram": "17142",
-            "title": "Web Tasarım: Dijital Dünyada Vitrininiz - Ajans Mobil",
-            "keywords": "#WebTasarım, #AjansMobil, #WebSitesiTasarımı, #ModernTasarım, #KullanıcıDeneyimi, #MobilUyumlu, #ResponsiveTasarım, #DijitalVitrin, #WebGeliştirme, #EstetikTasarım, #DijitalKimlik",
-            "description": "Dijital dünyadaki vitrininiz web sitenizdir. Markanız için modern, işlevsel ve estetik bir web sitesi tasarlayın! Ajans Mobil web tasarım çözümleri ile modern ve estetik tasarım, kullanıcı deneyimi odaklı yapı, mobil uyumlu ve responsive tasarım, arama motoru optimizasyonu hizmetleri sunuyoruz."
-        }
-    ]
+  "data": [
+    {
+      "path": "ajansmobil.mp4",
+      "id": "17142",
+      "tiktok": "17923",
+      "instagram": "17142",
+      "title": "Web Tasarım: Dijital Dünyada Vitrininiz | Ajans Mobil",
+      "keywords": "#WebTasarım, #AjansMobil, #WebSitesiTasarımı, #ModernTasarım, #KullanıcıDeneyimi, #MobilUyumlu, #ResponsiveTasarım, #DijitalVitrin, #WebGeliştirme, #EstetikTasarım, #DijitalKimlik, #WebOptimizasyonu, #TasarımAjansı, #WebTasarımHizmetleri, #DijitalTasarım, #TasarımStratejisi, #DijitalBaşarı, #WebTasarımAjansı, #DijitalDönüşüm",
+      "description": "Dijital dünyadaki vitrininiz web sitenizdir. Ajans Mobil olarak markanız için modern, işlevsel ve estetik web tasarım çözümleri sunuyoruz. Kullanıcı deneyimi odaklı, mobil uyumlu ve arama motoru dostu web siteleriyle dijital kimliğinizi inşa edin. Potansiyel müşterilerinizi etkileyin ve geleceğin web sitelerini bugün tasarlayın!"
+    },
+    {
+      "path": "contextarchitect.mp4",
+      "id": "17139",
+      "tiktok": "0",
+      "instagram": "17139",
+      "title": "Quick Wins: 3 Context-Based Improvements in 30 Days | Context Architecture",
+      "keywords": "#ContextArchitect, #AI, #Technology, #YunusSevgane, #Innovation, #Digital, #Future, #ContextArchitecture, #AIStrategy, #QuickWins, #BusinessTransformation, #ArtificialIntelligence",
+      "description": "Companies want quick wins in AI but don't know where to start. Context Architecture creates measurable value with 30-day sprints. Learn how to achieve 60% more effective customer support, 40% higher conversion rates, and 70% earlier problem detection through three strategic context-based improvements. Concrete ROI in 30 days, strategic advantage in 90 days."
+    },
+    {
+      "path": "livabella_pastanesi.mp4",
+      "id": "19391",
+      "tiktok": "0",
+      "instagram": "19391",
+      "title": "Kişiye Özel Doğum Günü Pastaları | Livabella Pastanesi Gaziantep",
+      "keywords": "#LivebellaPastanesi, #DoğumGünüPastası, #KişiyeÖzelPasta, #Gaziantep, #Pastane, #ÖzelTasarım, #DoğumGünü, #PastaÇeşitleri, #GaziantepPastane, #TatlıLezzet, #PastaSanatı, #ButikPasta",
+      "description": "Livabella Pastanesi'nden kişiye özel tasarlanmış doğum günü pastaları ile sevdiklerinize unutulmaz anlar yaşatın. Gaziantep'in kaliteli pastanesi olarak, her bir pastamızı özenle ve sevgiyle hazırlıyoruz. Taze malzemeler, yaratıcı tasarımlar ve mükemmel lezzet bir arada. Özel günlerinizi daha da özel kılmak için biz varız!"
+    },
+    {
+      "path": "yunusevgane.mp4",
+      "id": "17129",
+      "tiktok": "17915",
+      "instagram": "17129",
+      "title": "Hızlı Kazanımlar: 30 Günde Bağlam Tabanlı 3 İyileştirme | Yunus Sevgane",
+      "keywords": "#ContextArchitect, #AI, #Teknoloji, #YunusSevgane, #İnovasyon, #Dijital, #Gelecek, #YapayZeka, #ContextArchitecture, #DijitalDönüşüm, #AIStrategy, #İşGeliştirme",
+      "description": "Şirketler AI'da hızlı kazanımlar istiyor ama nereden başlayacaklarını bilmiyor. Context Architecture ile 30 günlük sprintlerle ölçülebilir değer yaratın. Müşteri destek chatbotunda %60 daha etkili yanıtlar, satış CRM'inde %40 daha yüksek dönüşüm ve operasyonel raporlamada %70 daha erken problem tespiti elde edin. 30 günde somut ROI, 90 günde stratejik avantaj."
+    }
+  ]
 }
-
-
