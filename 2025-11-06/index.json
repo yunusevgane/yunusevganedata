@@ -1,40 +1,14 @@
 {
     "data": [
         {
-            "path": "yunusevgane",
-            "id": "yunusevgane",
-            "tiktok": "17915",
-            "instagram": "17129",
-            "title": "\"AI Değil, Bağlam Ölçeklenir\" Tezi | Context Architect Yunus Sevgane",
-            "keywords": "#ContextArchitect, #AI, #Teknoloji, #YunusSevgane, #İnovasyon, #Dijital, #Gelecek",
-            "description": "Context Architecture ile AI yatırımları nasıl ölçeklenir? Yunus Sevgane'nin \"AI değil, bağlam ölçeklenir\" tezini keşfedin. Aynı AI modeliyle farklı bağlamlar yaratarak sonsuz uygulama alanı oluşturmanın sırları."
-        },
-        {
-            "path": "ajansmobil",
-            "id": "ajansmobil",
-            "tiktok": "17923",
-            "instagram": "17142",
-            "title": "Web Tasarım ile Dijital Vitrininizi Parlatın | Ajans Mobil",
-            "keywords": "#WebTasarım, #AjansMobil, #WebSitesiTasarımı, #ModernTasarım, #KullanıcıDeneyimi, #MobilUyumlu, #ResponsiveTasarım, #DijitalVitrin, #WebGeliştirme, #EstetikTasarım, #DijitalKimlik, #WebOptimizasyonu, #TasarımAjansı, #WebTasarımHizmetleri, #DijitalTasarım, #DijitalBaşarı, #WebTasarımAjansı, #DijitalDönüşüm",
-            "description": "Modern, işlevsel ve estetik web tasarımı ile dijital kimliğinizi inşa edin. Mobil uyumlu, SEO dostu ve kullanıcı deneyimi odaklı web sitesi tasarım hizmetleri. Potansiyel müşterilerinizi etkileyecek dijital vitrin oluşturun."
-        },
-        {
-            "path": "contextarchitect",
-            "id": "contextarchitect",
-            "tiktok": "0",
-            "instagram": "17139",
-            "title": "\"Context Scales, Not AI\" Thesis | Context Architecture",
-            "keywords": "#ContextArchitect, #AI, #Technology, #YunusSevgane, #Innovation, #Digital, #Future",
-            "description": "Discover how Context Architecture enables infinite scalability with the same AI model. The paradigm shift from hardware to context. One GPT model can be a doctor, lawyer, and engineer assistant with the right context."
-        },
-        {
-            "path": "livabella_pastanesi",
-            "id": "livabella_pastanesi",
-            "tiktok": "0",
-            "instagram": "19391",
-            "title": "Fıstıklı Pasta - Özel Günler İçin Lezzetli Seçim | Liva Bella Pastanesi",
-            "keywords": "#FıstıklıPasta, #LivaBella, #Pastane, #Gaziantep, #Pasta, #TatlıLezzet, #ÖzelGünler, #PastaneLezzeti, #Emek, #GaziantepPastanesi",
-            "description": "Liva Bella Pastanesi'nden özenle hazırlanmış fıstıklı pasta. Taze malzemeler ve özel tariflerle hazırlanan pastalarımızla özel günlerinizi tatlı anlarla süsleyin. Gaziantep Emek'teki pastane lezzetimizi keşfedin."
+            "path": "tadimlokantasi",
+            "id": "tadimlokantasi",
+            "tiktok": "17916",
+            "instagram": "17132",
+            "title": "Et Haşlaması - Geleneksel Gaziantep Lezzeti | Tadım Lokantası",
+            "keywords": "#EtHaşlaması, #TadımLokantası, #GaziantepMutfağı, #GelenekselLezzet, #SuluYemek, #AntepYemekleri, #Küsget, #GaziantepLokanta, #GelenekselTarif, #YöreselLezzetler",
+            "description": "Gaziantep mutfağının vazgeçilmez lezzetlerinden Et Haşlaması, Tadım Lokantası'nda özenle hazırlanıyor. Geleneksel tariflerle, taze malzemelerle ve usta ellerinden çıkan Et Haşlaması, yumuşacık etleri ve mis gibi aromasıyla sofranızın baş tacı. Küsget'teki lokantamızda geleneksel Antep mutfağının tadını çıkarın."
         }
     ]
 }
+
