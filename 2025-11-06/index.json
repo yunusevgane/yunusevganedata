@@ -5,29 +5,36 @@
             "id": "yunusevgane",
             "tiktok": "17915",
             "instagram": "17129",
-            "title": "AI Değil, Bağlam Ölçeklenir Tezi - Context Architecture",
-            "keywords": "#ContextArchitect, #AI, #Teknoloji, #YunusSevgane, #İnovasyon, #Dijital, #Gelecek, #Ölçeklenebilirlik, #ContextArchitecture, #AIStrateji",
-            "description": "'AI değil, bağlam ölçeklenir' tezini açıklıyorum. Şirketler AI modellerini ölçeklendirmeye odaklanıyor: Daha büyük modeller, daha fazla GPU, daha yüksek maliyetler. Ancak gerçekten ölçeklenen bağlam mimarisidir. Context Architecture uzmanları aynı AI modeliyle farklı bağlamlar yaratarak sonsuz uygulama alanı oluşturur. Bir GPT modeli doğru bağlamla doktor, avukat ve mühendis asistanı olabilir. Maliyet sabit kalırken çözüm alanı genişler."
-        },
-        {
-            "path": "contextarchitect",
-            "id": "contextarchitect",
-            "tiktok": "0",
-            "instagram": "17139",
-            "title": "Context Scales, Not AI Thesis - Context Architecture",
-            "keywords": "#ContextArchitect, #AI, #Technology, #YunusSevgane, #Innovation, #Digital, #Future, #Scalability, #ContextArchitecture, #AIStrategy",
-            "description": "I explain the thesis 'Context scales, not AI'. Companies focus on scaling AI models: Bigger models, more GPUs, higher costs. However, what truly scales is the context architecture. Context Architecture experts create infinite application areas by creating different contexts with the same AI model. One GPT model can be a doctor, lawyer, and engineer assistant with the right context. While cost remains fixed, the solution space expands."
+            "title": "\"AI Değil, Bağlam Ölçeklenir\" Tezi | Context Architect Yunus Sevgane",
+            "keywords": "#ContextArchitect, #AI, #Teknoloji, #YunusSevgane, #İnovasyon, #Dijital, #Gelecek",
+            "description": "Context Architecture ile AI yatırımları nasıl ölçeklenir? Yunus Sevgane'nin \"AI değil, bağlam ölçeklenir\" tezini keşfedin. Aynı AI modeliyle farklı bağlamlar yaratarak sonsuz uygulama alanı oluşturmanın sırları."
         },
         {
             "path": "ajansmobil",
             "id": "ajansmobil",
             "tiktok": "17923",
             "instagram": "17142",
-            "title": "Web Tasarım ile Dijital Vitrininizi Parlatın - Ajans Mobil",
-            "keywords": "#WebTasarım, #AjansMobil, #WebSitesiTasarımı, #ModernTasarım, #KullanıcıDeneyimi, #MobilUyumlu, #ResponsiveTasarım, #DijitalVitrin, #WebGeliştirme, #EstetikTasarım",
-            "description": "Dijital dünyadaki vitrininiz web sitenizdir. Markanız için modern, işlevsel ve estetik bir web sitesi tasarlayın! Ajans Mobil web tasarım hizmetleri ile modern ve estetik web tasarımı, kullanıcı deneyimi odaklı tasarım, mobil uyumlu ve responsive tasarım, arama motoru optimizasyonu, dijital kimlik inşası sunuyoruz."
+            "title": "Web Tasarım ile Dijital Vitrininizi Parlatın | Ajans Mobil",
+            "keywords": "#WebTasarım, #AjansMobil, #WebSitesiTasarımı, #ModernTasarım, #KullanıcıDeneyimi, #MobilUyumlu, #ResponsiveTasarım, #DijitalVitrin, #WebGeliştirme, #EstetikTasarım, #DijitalKimlik, #WebOptimizasyonu, #TasarımAjansı, #WebTasarımHizmetleri, #DijitalTasarım, #DijitalBaşarı, #WebTasarımAjansı, #DijitalDönüşüm",
+            "description": "Modern, işlevsel ve estetik web tasarımı ile dijital kimliğinizi inşa edin. Mobil uyumlu, SEO dostu ve kullanıcı deneyimi odaklı web sitesi tasarım hizmetleri. Potansiyel müşterilerinizi etkileyecek dijital vitrin oluşturun."
+        },
+        {
+            "path": "contextarchitect",
+            "id": "contextarchitect",
+            "tiktok": "0",
+            "instagram": "17139",
+            "title": "\"Context Scales, Not AI\" Thesis | Context Architecture",
+            "keywords": "#ContextArchitect, #AI, #Technology, #YunusSevgane, #Innovation, #Digital, #Future",
+            "description": "Discover how Context Architecture enables infinite scalability with the same AI model. The paradigm shift from hardware to context. One GPT model can be a doctor, lawyer, and engineer assistant with the right context."
+        },
+        {
+            "path": "livabella_pastanesi",
+            "id": "livabella_pastanesi",
+            "tiktok": "0",
+            "instagram": "19391",
+            "title": "Fıstıklı Pasta - Özel Günler İçin Lezzetli Seçim | Liva Bella Pastanesi",
+            "keywords": "#FıstıklıPasta, #LivaBella, #Pastane, #Gaziantep, #Pasta, #TatlıLezzet, #ÖzelGünler, #PastaneLezzeti, #Emek, #GaziantepPastanesi",
+            "description": "Liva Bella Pastanesi'nden özenle hazırlanmış fıstıklı pasta. Taze malzemeler ve özel tariflerle hazırlanan pastalarımızla özel günlerinizi tatlı anlarla süsleyin. Gaziantep Emek'teki pastane lezzetimizi keşfedin."
         }
     ]
 }
-
-
