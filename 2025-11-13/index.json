@@ -17,6 +17,15 @@
             "title": "Vector Database Selection: When, Why, How? - Context Architecture",
             "keywords": "#ContextArchitect, #AI, #Technology, #YunusSevgane, #Innovation, #Digital, #Future, #VectorDatabase, #DatabaseSelection, #TechnicalDecisions",
             "description": "I explain vector database selection. 'Which vector DB should I use?' is the wrong starting point. The right question is: 'What vector DB features does my context strategy require?' Context Architecture makes technical choices based on business requirements. Chroma for simple prototypes, Pinecone for scaled production, Weaviate for complex relationships. Technology choice serves business goals."
+        },
+        {
+            "path": "tadimlokantasi",
+            "id": "tadimlokantasi",
+            "tiktok": "17916",
+            "instagram": "17132",
+            "title": "Ekşili Taraklık Geleneksel Gaziantep Lezzeti | Tadım Lokantası",
+            "keywords": "#EkşiliTaraklık, #TadımLokantası, #GaziantepMutfağı, #GelenekselLezzet, #SuluYemek, #AntepYemekleri, #Küsget, #GaziantepLokanta, #EvYemekleri, #GaziantepLezzetleri",
+            "description": "🍽️ Gaziantep Küsget'in sabahında kaynayan kazanlarımızda ekşili taraklık kuzu etiyle ağır ağır pişiyor, her tabağa dengeli bir lezzet bırakıyor.\n👨‍🍳 Ustalarımızın yıllardır koruduğu geleneksel tarifle hazırlanan taraklık, taze sebzeler ve baharatlarla harmanlanarak doyurucu bir sofraya dönüşüyor.\n📍 Tadım Lokantası'na uğrayın, günlük çıkan sulu yemek menümüzdeki ekşili taraklıkla hem içimizi ısıtan hem de yöresel tatlara özlemimizi gideren deneyimi yaşayın."
         }
     ]
 }
